@@ -1,1 +1,1 @@
-<img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/06/Turbulence_600x338_Cassini.gif" width="100%">
+<pre><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/PIA02863_-_Jupiter_surface_motion_animation.gif/1200px-PIA02863_-_Jupiter_surface_motion_animation.gif" width="100%" /></p><b>View of 24 Jupiter rotations from Cassini (Oct. 31 to Nov. 9, 2000)</b><br><i>NASA Jet Propulsion Laboratory</i></pre>
