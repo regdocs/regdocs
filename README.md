@@ -1,1 +1,1 @@
-<pre><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/PIA02863_-_Jupiter_surface_motion_animation.gif/1200px-PIA02863_-_Jupiter_surface_motion_animation.gif" width="100%" /></p><b>View of 24 Jupiter rotations from Cassini (Oct. 31 to Nov. 9, 2000)</b><br>[<a href="https://photojournal.jpl.nasa.gov/catalog/pia02863">PIA02863</a>] NASA Jet Propulsion Laboratory</pre>
+<p align="center"><img src="https://i.giphy.com/media/KGI4gmWK9yPsI/giphy.webp" width="40%" /><br><code>SARS-CoV-69</code></p>
