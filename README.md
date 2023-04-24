@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Jay, an avid Pythonista and admirer of all things Computer Science. I write software and teach for a living.
+I'm **Jay**, an avid Pythonista and admirer of all things Computer Science. I write software and teach for a living.
 
 #### 👨‍💻 Repositories I created recently
 
