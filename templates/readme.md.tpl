@@ -4,15 +4,7 @@ I'm **Jay**, an avid Pythonista and admirer of all things Computer Science. I wr
 
 #### 🛠 My personal projects
 
-{{with repo "jayzsh" "TurboZAS"}}
-Name: {{.Name}}
-Description: {{.Description}}
-URL: {{.URL}}
-Stars: {{.Stargazers}}
-Is Private: {{.IsPrivate}}
-Last Git Tag: {{.LastRelease.TagName}}
-Last Release: {{humanize .LastRelease.PublishedAt}}
-{{end}}
+{{with repo "jayzsh" "TurboZAS"}} {{.Name}} | {{.Description}} | {{.URL}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}
 
 #### 📁 My recent contributions
 
