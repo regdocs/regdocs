@@ -12,9 +12,11 @@ Repository | Description | Stargazers | Last release tag | Publish time |
 
 #### 📁 My recent contributions
 
+<ul>
 {{- range recentContributions 5}}
-- **[{{.Repo.Name}}]({{.Repo.URL}})** - {{.Repo.Description}} - {{humanize .OccurredAt}}{{ end }}
+<li><b><a href="{{.Repo.URL}}">{{.Repo.Name}}</a></b> - {{.Repo.Description}} - {{humanize .OccurredAt}}</li>
 {{- end}}
+</ul>
 
 #### 👨‍💻 Repositories I created recently
 
