@@ -12,17 +12,13 @@ Repository | Description | Stargazers | Last release tag | Publish time |
 
 #### 📁 My recent contributions
 
-
-- **[trinity-sh/manjeetkaur-frontend](https://github.com/trinity-sh/manjeetkaur-frontend)** -  - today
-
-- **[jayzsh/RocketCourses](https://github.com/jayzsh/RocketCourses)** - Open courses by @jayzsh - 3 days ago
-
-- **[jayzsh/LaTeX-Resume](https://github.com/jayzsh/LaTeX-Resume)** - Source: Jake's resume template - 1 week ago
-
-- **[jayzsh/cipher-io](https://github.com/jayzsh/cipher-io)** - End-to-end encrypted pythonic terminal chat application - 1 week ago
-
-- **[jayzsh/LC-DSA](https://github.com/jayzsh/LC-DSA)** - My data structures and algorithm respository written in Rust-lang - 3 weeks ago
-
+<ul>
+<li><b><a href="https://github.com/trinity-sh/manjeetkaur-frontend">trinity-sh/manjeetkaur-frontend</a></b> - React website for Manjeet Kaur Foundation - today</li>
+<li><b><a href="https://github.com/jayzsh/RocketCourses">jayzsh/RocketCourses</a></b> - Open courses by @jayzsh - 3 days ago</li>
+<li><b><a href="https://github.com/jayzsh/LaTeX-Resume">jayzsh/LaTeX-Resume</a></b> - Source: Jake's resume template - 1 week ago</li>
+<li><b><a href="https://github.com/jayzsh/cipher-io">jayzsh/cipher-io</a></b> - End-to-end encrypted pythonic terminal chat application - 1 week ago</li>
+<li><b><a href="https://github.com/jayzsh/LC-DSA">jayzsh/LC-DSA</a></b> - My data structures and algorithm respository written in Rust-lang - 3 weeks ago</li>
+</ul>
 
 #### 👨‍💻 Repositories I created recently
 - **[jayzsh/LaTeX-Resume](https://github.com/jayzsh/LaTeX-Resume)** - Source: Jake's resume template
