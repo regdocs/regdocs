@@ -29,7 +29,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: 'docs: Update generated README'
-          branch: main
+          branch: dev
           commit_user_name: readme-scribe robot
           commit_user_email: actions@github.com
           commit_author: readme-scribe robot <actions@github.com>
