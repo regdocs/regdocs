@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "2 15-22 * * *"
+    - cron: "0/30 15-22 * * *"
 
 jobs:
   markscribe:
@@ -17,7 +17,7 @@ jobs:
         with:
           go-version: '^1'
       - run: |
-          go install github.com/muesli/markscribe@master
+          go get github.com/muesli/markscribe
           markscribe ./templates/readme.md.tpl > README.md
         shell: bash
         env:
