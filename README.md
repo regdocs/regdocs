@@ -17,7 +17,6 @@ I'm **Jay**, an avid Pythonista and admirer of all things Computer Science. I wr
 - [stazsh/TDG-Android @ 1.0.0](https://github.com/stazsh/TDG-Android/releases/tag/1.0.0) (6 months ago)
 
 #### 📚 Books I'm reading
-- **[Fluent Python](https://literal.club/jayzsh/book/fluent-python-1gafr)** by _Luciano Ramalho_
 - **[Automate the Boring Stuff with Python, 2nd Edition - Practical Programming for Total Beginners](https://literal.club/jayzsh/book/al-sweigart-automate-the-boring-stuff-with-python-2nd-edition-x47zp)** by _Al Sweigart_
 - **[Hands-On Machine Learning with Scikit-Learn and TensorFlow - Concepts, Tools, and Techniques to Build Intelligent Systems](https://literal.club/jayzsh/book/hands-on-machine-learning-with-scikit-learn-and-tensorflow-pw0fv)** by _Aurélien Géron_
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
