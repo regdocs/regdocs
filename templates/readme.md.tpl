@@ -5,19 +5,15 @@ I'm **Jay**, an avid Pythonista and admirer of all things Computer Science. I wr
 #### 🛠  My personal projects
 Repository | Description | Stargazers | Last release tag | Publish time |
 -----------|-------------|------------|------------------|--------------|
-{{with repo "jayzsh" "Acorn"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
 {{with repo "jayzsh" "TurboZAS"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
+{{with repo "jayzsh" "Acorn"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
 {{with repo "jayzsh" "Charity"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
 {{with repo "jayzsh" "URLTag"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
-{{with repo "jayzsh" "RocketCourses"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
 
 #### 📁 My recent contributions
 
 {{range recentContributions 5}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
-Occurred: {{humanize .OccurredAt}}
+- **[{{.Repo.Name}}]({{.Repo.URL}})** - {{.Repo.Description}} - {{humanize .OccurredAt}}
 {{end}}
 
 #### 👨‍💻 Repositories I created recently
