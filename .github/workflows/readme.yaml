@@ -18,7 +18,8 @@ jobs:
           go-version: '^1'
       - run: |
           go install github.com/muesli/markscribe@master
-          markscribe ./templates/readme.md.tpl > README.md
+          #markscribe ./templates/readme.md.tpl > README.md
+          echo "hi"
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
