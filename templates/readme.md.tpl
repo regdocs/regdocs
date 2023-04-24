@@ -2,9 +2,14 @@
 
 I'm **Jay**, an avid Pythonista and admirer of all things Computer Science. I write software and teach for a living.
 
-#### 🛠 My personal projects
-
-{{with repo "jayzsh" "TurboZAS"}} {{.Name}} | {{.Description}} | {{.URL}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}
+#### 🛠  My personal projects
+Repository | Description | Stargazers | Last release tag | Publish time |
+-----------|-------------|------------|------------------|--------------|
+{{with repo "jayzsh" "Acorn"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}
+{{with repo "jayzsh" "TurboZAS"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}
+{{with repo "jayzsh" "Charity"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}
+{{with repo "jayzsh" "URLTag"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}
+{{with repo "jayzsh" "RocketCourses"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}
 
 #### 📁 My recent contributions
 
