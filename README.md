@@ -1,13 +1,52 @@
-## Hello 👋
+## Hello World
 
 I'm **Jay**, an avid Pythonista and admirer of all things Computer Science. I write software and teach for a living.
+
+#### 🛠 My personal projects
+
+
+Name: jayzsh/TurboZAS
+Description: Zombie Apocalypse Survivor is a 16-bit retro style adventure game on the Windows 3.x terminal built with the TurboC/C++ compiler (1992)
+URL: https://github.com/jayzsh/TurboZAS
+Stars: 5
+Is Private: false
+Last Git Tag: v1.1-stable
+Last Release: 1 year ago
+
+
+#### 📁 My recent contributions
+
+
+Name: trinity-sh/manjeetkaur-frontend
+Description: 
+URL: https://github.com/trinity-sh/manjeetkaur-frontend)
+Occurred: today
+
+Name: jayzsh/RocketCourses
+Description: Open courses by @jayzsh
+URL: https://github.com/jayzsh/RocketCourses)
+Occurred: 3 days ago
+
+Name: jayzsh/LaTeX-Resume
+Description: Source: Jake's resume template
+URL: https://github.com/jayzsh/LaTeX-Resume)
+Occurred: 1 week ago
+
+Name: jayzsh/cipher-io
+Description: End-to-end encrypted pythonic terminal chat application
+URL: https://github.com/jayzsh/cipher-io)
+Occurred: 1 week ago
+
+Name: jayzsh/LC-DSA
+Description: My data structures and algorithm respository written in Rust-lang
+URL: https://github.com/jayzsh/LC-DSA)
+Occurred: 3 weeks ago
+
 
 #### 👨‍💻 Repositories I created recently
 - **[jayzsh/LaTeX-Resume](https://github.com/jayzsh/LaTeX-Resume)** - Source: Jake's resume template
 - **[jayzsh/RocketCourses](https://github.com/jayzsh/RocketCourses)** - Open courses by @jayzsh
 - **[jayzsh/URLTag](https://github.com/jayzsh/URLTag)** - Analytics API for the web; generate tracking tags and monitor hits. URLTag uses GET-image HTTP requests to register hits.
-- **[jayzsh/cipher-io](https://github.com/jayzsh/cipher-io)** - End-to-end encrypted pythonic terminal chat application
-- **[jayzsh/Personal-Website](https://github.com/jayzsh/Personal-Website)** - My personal website using Next.js
 
 #### 🚀 Latest releases I've contributed to
 
@@ -29,5 +68,3 @@ You might want to check out my [literal.club profile](https://literal.club/jayzs
 - **[ricktu288/ray-optics](https://github.com/ricktu288/ray-optics)** - A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos. (2 days ago)
 - **[deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume)** - A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student (1 week ago)
 - **[jayzsh/URLTag](https://github.com/jayzsh/URLTag)** - Analytics API for the web; generate tracking tags and monitor hits. URLTag uses GET-image HTTP requests to register hits. (4 weeks ago)
-- **[asrul10/linux-command-gpt](https://github.com/asrul10/linux-command-gpt)** - Get Linux commands in natural language with the power of ChatGPT. (1 month ago)
-- **[mdn/content](https://github.com/mdn/content)** - The content behind MDN Web Docs (1 month ago)
