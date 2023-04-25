@@ -5,7 +5,7 @@ I'm **Jay**, an avid Pythonista and admirer of all things Computer Science. I wr
 #### 🛠  My personal projects
 Repository | Description | Last release tag | Publish time |
 -----------|-------------|------------------|--------------|
- [jayzsh/TurboZAS](https://github.com/jayzsh/TurboZAS) | Zombie Apocalypse Survivor is a 16-bit retro style adventure game on the Windows 3.x terminal built with the TurboC/C++ compiler (1992) | v1.1-stable | 1 year ago
+ [jayzsh/TurboZAS](https://github.com/jayzsh/TurboZAS) | Immersive and retro style apocalypse themed escape-room adventure game on the Windows 3.x terminal | v1.1-stable | 1 year ago
  [jayzsh/Acorn](https://github.com/jayzsh/Acorn) | Acorn is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  | 1.0-alpha.0 | 1 day ago
  [jayzsh/Charity](https://github.com/jayzsh/Charity) | Versatile moderation and community management bot utilising modern Pythonic Discord API (PyPI v1.7.2) | 1.0.2-beta | 1 day ago
  [jayzsh/URLTag](https://github.com/jayzsh/URLTag) | Analytics API for the web; generate tracking tags and monitor hits. URLTag uses GET-image HTTP requests to register hits. | v0.5-beta.0 | 1 month ago
