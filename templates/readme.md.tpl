@@ -13,7 +13,7 @@ Repository | Description | Stargazers | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-{{- range recentContributions 5}}
+{{- range recentContributions 3}}
 <li><b><a href="{{.Repo.URL}}">{{.Repo.Name}}</a></b> - {{.Repo.Description}} - {{humanize .OccurredAt}}</li>
 {{- end}}
 </ul>
@@ -32,7 +32,7 @@ Repository | Description | Stargazers | Last release tag | Publish time |
 
 #### 📚 Books I'm reading
 
-{{- range literalClubCurrentlyReading 5 }}
+{{- range literalClubCurrentlyReading 10 }}
 - **[{{ .Title }}{{ with .Subtitle }} - {{ . }}{{ end }}](https://literal.club/jayzsh/book/{{.Slug}})** by _{{ range $i, $a := .Authors }}{{ if gt $i 0 }}, {{ end }}{{ $a.Name }}{{ end }}_
 {{- end }}
 
