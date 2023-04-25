@@ -3,12 +3,12 @@
 I'm **Jay**, an avid Pythonista and admirer of all things Computer Science. I write software and teach for a living.
 
 #### 🛠  My personal projects
-Repository | Description | Stargazers | Last release tag | Publish time |
------------|-------------|------------|------------------|--------------|
-{{with repo "jayzsh" "TurboZAS"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
-{{with repo "jayzsh" "Acorn"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
-{{with repo "jayzsh" "Charity"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
-{{with repo "jayzsh" "URLTag"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.Stargazers}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
+Repository | Description | Last release tag | Publish time |
+-----------|-------------|------------------|--------------|
+{{with repo "jayzsh" "TurboZAS"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
+{{with repo "jayzsh" "Acorn"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
+{{with repo "jayzsh" "Charity"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
+{{with repo "jayzsh" "URLTag"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
 
 #### 📁 My recent contributions
 
@@ -32,7 +32,7 @@ Repository | Description | Stargazers | Last release tag | Publish time |
 
 #### 📚 Books I'm reading
 
-{{- range literalClubCurrentlyReading 10 }}
+{{- range literalClubCurrentlyReading 3 }}
 - **[{{ .Title }}{{ with .Subtitle }} - {{ . }}{{ end }}](https://literal.club/jayzsh/book/{{.Slug}})** by _{{ range $i, $a := .Authors }}{{ if gt $i 0 }}, {{ end }}{{ $a.Name }}{{ end }}_
 {{- end }}
 
