@@ -6,16 +6,16 @@ I'm **Jay**, an avid Pythonista and admirer of all things Computer Science.
 Repository | Description | Last release tag | Publish time |
 -----------|-------------|------------------|--------------|
  [jayzsh/TurboZAS](https://github.com/jayzsh/TurboZAS) | Immersive and retro style apocalypse themed escape-room adventure game on the Windows 3.x terminal | v1.1-stable | 1 year ago
- [jayzsh/Acorn](https://github.com/jayzsh/Acorn) | Acorn is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  | 1.0-alpha.0 | 6 days ago
- [jayzsh/Charity](https://github.com/jayzsh/Charity) | Versatile moderation and community management bot utilising modern Pythonic Discord API (PyPI v1.7.2) | 1.0.2-beta | 6 days ago
+ [jayzsh/Acorn](https://github.com/jayzsh/Acorn) | Acorn is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  | 1.0-alpha.0 | 1 week ago
+ [jayzsh/Charity](https://github.com/jayzsh/Charity) | Versatile moderation and community management bot utilising modern Pythonic Discord API (PyPI v1.7.2) | 1.0.2-beta | 1 week ago
  [jayzsh/URLTag](https://github.com/jayzsh/URLTag) | Analytics API for the web; generate tracking tags and monitor hits. URLTag uses GET-image HTTP requests to register hits. | v0.5-beta.0 | 1 month ago
 
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/jayzsh/RocketCourses">jayzsh/RocketCourses</a></b> - Open courses by @jayzsh - 2 days ago</li>
-<li><b><a href="https://github.com/jayzsh/LaTeX-Resume">jayzsh/LaTeX-Resume</a></b> - OC: Jake's resume template from Overleaf - 3 days ago</li>
-<li><b><a href="https://github.com/trinity-sh/manjeetkaur-frontend">trinity-sh/manjeetkaur-frontend</a></b> - React website for Manjeet Kaur Foundation - 3 days ago</li>
+<li><b><a href="https://github.com/jayzsh/RocketCourses">jayzsh/RocketCourses</a></b> - Open courses by @jayzsh - 3 days ago</li>
+<li><b><a href="https://github.com/jayzsh/LaTeX-Resume">jayzsh/LaTeX-Resume</a></b> - OC: Jake's resume template from Overleaf - 4 days ago</li>
+<li><b><a href="https://github.com/trinity-sh/manjeetkaur-frontend">trinity-sh/manjeetkaur-frontend</a></b> - React website for Manjeet Kaur Foundation - 4 days ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
@@ -26,8 +26,8 @@ Repository | Description | Last release tag | Publish time |
 #### 🚀 Latest releases I've contributed to
 
 
-- [jayzsh/Charity @ 1.0.2-beta](https://github.com/jayzsh/Charity/releases/tag/1.0.2-beta) (6 days ago)
-- [jayzsh/Acorn @ 1.0-alpha.0](https://github.com/jayzsh/Acorn/releases/tag/1.0-alpha.0) (6 days ago)
+- [jayzsh/Charity @ 1.0.2-beta](https://github.com/jayzsh/Charity/releases/tag/1.0.2-beta) (1 week ago)
+- [jayzsh/Acorn @ 1.0-alpha.0](https://github.com/jayzsh/Acorn/releases/tag/1.0-alpha.0) (1 week ago)
 - [jayzsh/URLTag @ v0.5-beta.0](https://github.com/jayzsh/URLTag/releases/tag/v0.5-beta.0) (1 month ago)
 
 #### 📚 Books I'm reading
