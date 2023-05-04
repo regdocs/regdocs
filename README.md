@@ -13,9 +13,9 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/jayzsh/RocketCourses">jayzsh/RocketCourses</a></b> - Open courses by @jayzsh - 5 days ago</li>
-<li><b><a href="https://github.com/jayzsh/LaTeX-Resume">jayzsh/LaTeX-Resume</a></b> - OC: Jake's resume template from Overleaf - 6 days ago</li>
-<li><b><a href="https://github.com/trinity-sh/manjeetkaur-frontend">trinity-sh/manjeetkaur-frontend</a></b> - React website for Manjeet Kaur Foundation - 6 days ago</li>
+<li><b><a href="https://github.com/jayzsh/RocketCourses">jayzsh/RocketCourses</a></b> - Open courses by @jayzsh - 6 days ago</li>
+<li><b><a href="https://github.com/jayzsh/LaTeX-Resume">jayzsh/LaTeX-Resume</a></b> - OC: Jake's resume template from Overleaf - 1 week ago</li>
+<li><b><a href="https://github.com/trinity-sh/manjeetkaur-frontend">trinity-sh/manjeetkaur-frontend</a></b> - React website for Manjeet Kaur Foundation - 1 week ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
@@ -37,5 +37,5 @@ Repository | Description | Last release tag | Publish time |
 
 #### ⭐ Recent Stars
 - **[ricktu288/ray-optics](https://github.com/ricktu288/ray-optics)** - A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos. (1 week ago)
-- **[deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume)** - A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student (2 weeks ago)
+- **[deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume)** - A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student (3 weeks ago)
 - **[jayzsh/URLTag](https://github.com/jayzsh/URLTag)** - Analytics API for the web; generate tracking tags and monitor hits. URLTag uses GET-image HTTP requests to register hits. (1 month ago)
