@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[H-M-H/Weylus](https://github.com/H-M-H/Weylus)** - Use your tablet as graphic tablet/touch screen on your computer. (3 days ago)
+- **[openai/shap-e](https://github.com/openai/shap-e)** - Generate 3D objects conditioned on text or images (1 day ago)
+- **[H-M-H/Weylus](https://github.com/H-M-H/Weylus)** - Use your tablet as graphic tablet/touch screen on your computer. (4 days ago)
 - **[ricktu288/ray-optics](https://github.com/ricktu288/ray-optics)** - A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos. (2 weeks ago)
-- **[deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume)** - A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student (3 weeks ago)
