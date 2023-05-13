@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[jayzsh/RocketCourses](https://github.com/jayzsh/RocketCourses)** - Open courses by @jayzsh (today)
-- **[openai/shap-e](https://github.com/openai/shap-e)** - Generate 3D objects conditioned on text or images (4 days ago)
+- **[jayzsh/RocketCourses](https://github.com/jayzsh/RocketCourses)** - Open courses by @jayzsh (1 day ago)
+- **[openai/shap-e](https://github.com/openai/shap-e)** - Generate 3D objects conditioned on text or images (5 days ago)
 - **[H-M-H/Weylus](https://github.com/H-M-H/Weylus)** - Use your tablet as graphic tablet/touch screen on your computer. (1 week ago)
