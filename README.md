@@ -14,8 +14,8 @@ Repository | Description | Last release tag | Publish time |
 
 <ul>
 <li><b><a href="https://github.com/jayzsh/RocketCourses">jayzsh/RocketCourses</a></b> - Open courses by @jayzsh - 3 weeks ago</li>
-<li><b><a href="https://github.com/jayzsh/LaTeX-Resume">jayzsh/LaTeX-Resume</a></b> - OC: Jake's resume template from Overleaf - 3 weeks ago</li>
-<li><b><a href="https://github.com/trinity-sh/manjeetkaur-frontend">trinity-sh/manjeetkaur-frontend</a></b> - React website for Manjeet Kaur Foundation - 3 weeks ago</li>
+<li><b><a href="https://github.com/jayzsh/LaTeX-Resume">jayzsh/LaTeX-Resume</a></b> - OC: Jake's resume template from Overleaf - 4 weeks ago</li>
+<li><b><a href="https://github.com/trinity-sh/manjeetkaur-frontend">trinity-sh/manjeetkaur-frontend</a></b> - React website for Manjeet Kaur Foundation - 4 weeks ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
