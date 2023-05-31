@@ -13,8 +13,8 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/stazsh/PyMail-for-Strapi">stazsh/PyMail-for-Strapi</a></b> - Webhook receiver for Strapi mass-mailer dashboard - today</li>
-<li><b><a href="https://github.com/trinity-sh/manjeetkaur-frontend">trinity-sh/manjeetkaur-frontend</a></b> - React website for Manjeet Kaur Foundation - 4 days ago</li>
+<li><b><a href="https://github.com/stazsh/PyMail-for-Strapi">stazsh/PyMail-for-Strapi</a></b> - Webhook receiver for Strapi mass-mailer dashboard - 1 day ago</li>
+<li><b><a href="https://github.com/trinity-sh/manjeetkaur-frontend">trinity-sh/manjeetkaur-frontend</a></b> - React website for Manjeet Kaur Foundation - 5 days ago</li>
 <li><b><a href="https://github.com/jayzsh/RocketCourses">jayzsh/RocketCourses</a></b> - Open courses by @jayzsh - 1 month ago</li>
 </ul>
 
