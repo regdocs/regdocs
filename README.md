@@ -13,8 +13,8 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/stazsh/PyMail-for-Strapi">stazsh/PyMail-for-Strapi</a></b> - Webhook receiver for Strapi mass-mailer dashboard - 2 days ago</li>
-<li><b><a href="https://github.com/trinity-sh/manjeetkaur-frontend">trinity-sh/manjeetkaur-frontend</a></b> - React website for Manjeet Kaur Foundation - 6 days ago</li>
+<li><b><a href="https://github.com/stazsh/PyMail-for-Strapi">stazsh/PyMail-for-Strapi</a></b> - Webhook receiver for Strapi mass-mailer dashboard - 3 days ago</li>
+<li><b><a href="https://github.com/trinity-sh/manjeetkaur-frontend">trinity-sh/manjeetkaur-frontend</a></b> - React website for Manjeet Kaur Foundation - 1 week ago</li>
 <li><b><a href="https://github.com/jayzsh/RocketCourses">jayzsh/RocketCourses</a></b> - Open courses by @jayzsh - 1 month ago</li>
 </ul>
 
@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[jayzsh/RocketCourses](https://github.com/jayzsh/RocketCourses)** - Open courses by @jayzsh (2 weeks ago)
+- **[jayzsh/RocketCourses](https://github.com/jayzsh/RocketCourses)** - Open courses by @jayzsh (3 weeks ago)
 - **[openai/shap-e](https://github.com/openai/shap-e)** - Generate 3D objects conditioned on text or images (3 weeks ago)
-- **[H-M-H/Weylus](https://github.com/H-M-H/Weylus)** - Use your tablet as graphic tablet/touch screen on your computer. (3 weeks ago)
+- **[H-M-H/Weylus](https://github.com/H-M-H/Weylus)** - Use your tablet as graphic tablet/touch screen on your computer. (4 weeks ago)
