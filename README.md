@@ -13,7 +13,7 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux - today</li>
+<li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux - 1 day ago</li>
 <li><b><a href="https://github.com/trinity-sh/manjeetkaur-frontend">trinity-sh/manjeetkaur-frontend</a></b> - React website for Manjeet Kaur Foundation - 3 weeks ago</li>
 <li><b><a href="https://github.com/jayzsh/RocketCourses">jayzsh/RocketCourses</a></b> - Open courses by @jayzsh - 1 month ago</li>
 </ul>
@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[TotallyNotChase/glitch-this](https://github.com/TotallyNotChase/glitch-this)** - :camera: Glitchify images and GIF - with highly customizable options!  (today)
+- **[TotallyNotChase/glitch-this](https://github.com/TotallyNotChase/glitch-this)** - :camera: Glitchify images and GIF - with highly customizable options!  (1 day ago)
 - **[jayzsh/RocketCourses](https://github.com/jayzsh/RocketCourses)** - Open courses by @jayzsh (1 month ago)
 - **[openai/shap-e](https://github.com/openai/shap-e)** - Generate 3D objects conditioned on text or images (1 month ago)
