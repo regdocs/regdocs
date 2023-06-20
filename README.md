@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[TotallyNotChase/glitch-this](https://github.com/TotallyNotChase/glitch-this)** - :camera: Glitchify images and GIF - with highly customizable options!  (3 days ago)
+- **[TotallyNotChase/glitch-this](https://github.com/TotallyNotChase/glitch-this)** - :camera: Glitchify images and GIF - with highly customizable options!  (4 days ago)
 - **[jayzsh/RocketCourses](https://github.com/jayzsh/RocketCourses)** - Open courses by @jayzsh (1 month ago)
 - **[openai/shap-e](https://github.com/openai/shap-e)** - Generate 3D objects conditioned on text or images (1 month ago)
