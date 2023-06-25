@@ -13,9 +13,9 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - today</li>
-<li><b><a href="https://github.com/StutiPradhan/CodeWrite">StutiPradhan/CodeWrite</a></b> -  - 2 days ago</li>
-<li><b><a href="https://github.com/gsasansol/OS23-Health-Tracker">gsasansol/OS23-Health-Tracker</a></b> -  - 3 days ago</li>
+<li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 1 day ago</li>
+<li><b><a href="https://github.com/StutiPradhan/CodeWrite">StutiPradhan/CodeWrite</a></b> -  - 3 days ago</li>
+<li><b><a href="https://github.com/gsasansol/OS23-P2P-Chat">gsasansol/OS23-P2P-Chat</a></b> -  - 4 days ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[StutiPradhan/CodeWrite](https://github.com/StutiPradhan/CodeWrite)** (2 days ago)
+- **[StutiPradhan/CodeWrite](https://github.com/StutiPradhan/CodeWrite)** (3 days ago)
 - **[TotallyNotChase/glitch-this](https://github.com/TotallyNotChase/glitch-this)** - :camera: Glitchify images and GIF - with highly customizable options!  (1 week ago)
 - **[jayzsh/RocketCourses](https://github.com/jayzsh/RocketCourses)** - Open courses by @jayzsh (1 month ago)
