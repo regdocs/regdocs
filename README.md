@@ -13,8 +13,8 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 1 day ago</li>
-<li><b><a href="https://github.com/StutiPradhan/CodeWrite">StutiPradhan/CodeWrite</a></b> -  - 1 week ago</li>
+<li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 2 days ago</li>
+<li><b><a href="https://github.com/StutiPradhan/CodeWrite">StutiPradhan/CodeWrite</a></b> -  - 2 weeks ago</li>
 <li><b><a href="https://github.com/gsasansol/OS23-P2P-Chat">gsasansol/OS23-P2P-Chat</a></b> -  - 2 weeks ago</li>
 </ul>
 
@@ -37,5 +37,5 @@ Repository | Description | Last release tag | Publish time |
 
 #### ⭐ Recent Stars
 - **[SMAKSS/react-scroll-direction](https://github.com/SMAKSS/react-scroll-direction)** - Detect scroll direction in react applications.  (1 week ago)
-- **[StutiPradhan/CodeWrite](https://github.com/StutiPradhan/CodeWrite)** (1 week ago)
+- **[StutiPradhan/CodeWrite](https://github.com/StutiPradhan/CodeWrite)** (2 weeks ago)
 - **[TotallyNotChase/glitch-this](https://github.com/TotallyNotChase/glitch-this)** - :camera: Glitchify images and GIF - with highly customizable options!  (2 weeks ago)
