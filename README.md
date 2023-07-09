@@ -13,9 +13,9 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 1 day ago</li>
+<li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 2 days ago</li>
 <li><b><a href="https://github.com/StutiPradhan/CodeWrite">StutiPradhan/CodeWrite</a></b> -  - 2 weeks ago</li>
-<li><b><a href="https://github.com/gsasansol/OS23-Liveboard">gsasansol/OS23-Liveboard</a></b> -  - 2 weeks ago</li>
+<li><b><a href="https://github.com/gsasansol/OS23-Health-Tracker">gsasansol/OS23-Health-Tracker</a></b> -  - 2 weeks ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
