@@ -5,7 +5,7 @@ I'm **Jay**, an avid Pythonista and admirer of all things Computer Science.
 #### 🛠  My personal projects
 Repository | Description | Last release tag | Publish time |
 -----------|-------------|------------------|--------------|
- [jayzsh/TurboZAS](https://github.com/jayzsh/TurboZAS) | Immersive and retro style apocalypse themed escape-room adventure game on the Windows 3.x terminal | v1.1-stable | 1 year ago
+ [jayzsh/TurboZAS](https://github.com/jayzsh/TurboZAS) | Immersive and retro style apocalypse themed escape-room adventure game on the Windows 3.x terminal | v1.1-stable | 2 years ago
  [jayzsh/Acorn](https://github.com/jayzsh/Acorn) | Acorn is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  | 1.0-alpha.0 | 2 months ago
  [jayzsh/Charity](https://github.com/jayzsh/Charity) | Versatile moderation and community management bot utilising modern Pythonic Discord API (PyPI v1.7.2) | 1.0.2-beta | 2 months ago
  [jayzsh/URLTag](https://github.com/jayzsh/URLTag) | Analytics API for the web; generate tracking tags and monitor traffic. URLTag uses GET-image HTTP requests to register hits. | v0.5-beta.0 | 3 months ago
@@ -13,8 +13,8 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 1 day ago</li>
-<li><b><a href="https://github.com/StutiPradhan/CodeWrite">StutiPradhan/CodeWrite</a></b> -  - 2 weeks ago</li>
+<li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 2 days ago</li>
+<li><b><a href="https://github.com/StutiPradhan/CodeWrite">StutiPradhan/CodeWrite</a></b> -  - 3 weeks ago</li>
 <li><b><a href="https://github.com/gsasansol/OS23-Health-Tracker">gsasansol/OS23-Health-Tracker</a></b> -  - 3 weeks ago</li>
 </ul>
 
@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[WhiteFang033/Infinity](https://github.com/WhiteFang033/Infinity)** (today)
+- **[WhiteFang033/Infinity](https://github.com/WhiteFang033/Infinity)** (1 day ago)
 - **[SMAKSS/react-scroll-direction](https://github.com/SMAKSS/react-scroll-direction)** - Detect scroll direction in react applications.  (2 weeks ago)
-- **[StutiPradhan/CodeWrite](https://github.com/StutiPradhan/CodeWrite)** (2 weeks ago)
+- **[StutiPradhan/CodeWrite](https://github.com/StutiPradhan/CodeWrite)** (3 weeks ago)
