@@ -14,7 +14,7 @@ Repository | Description | Last release tag | Publish time |
 
 <ul>
 <li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 1 week ago</li>
-<li><b><a href="https://github.com/StutiPradhan/CodeWrite">StutiPradhan/CodeWrite</a></b> -  - 3 weeks ago</li>
+<li><b><a href="https://github.com/StutiPradhan/CodeWrite">StutiPradhan/CodeWrite</a></b> -  - 4 weeks ago</li>
 <li><b><a href="https://github.com/gsasansol/OS23-P2P-Chat">gsasansol/OS23-P2P-Chat</a></b> -  - 4 weeks ago</li>
 </ul>
 
@@ -38,4 +38,4 @@ Repository | Description | Last release tag | Publish time |
 #### ⭐ Recent Stars
 - **[WhiteFang033/Infinity](https://github.com/WhiteFang033/Infinity)** (1 week ago)
 - **[SMAKSS/react-scroll-direction](https://github.com/SMAKSS/react-scroll-direction)** - Detect scroll direction in react applications.  (3 weeks ago)
-- **[StutiPradhan/CodeWrite](https://github.com/StutiPradhan/CodeWrite)** (3 weeks ago)
+- **[StutiPradhan/CodeWrite](https://github.com/StutiPradhan/CodeWrite)** (4 weeks ago)
