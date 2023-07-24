@@ -37,5 +37,5 @@ Repository | Description | Last release tag | Publish time |
 
 #### ⭐ Recent Stars
 - **[WhiteFang033/Infinity](https://github.com/WhiteFang033/Infinity)** (1 week ago)
-- **[SMAKSS/react-scroll-direction](https://github.com/SMAKSS/react-scroll-direction)** - Detect scroll direction in react applications.  (3 weeks ago)
+- **[SMAKSS/react-scroll-direction](https://github.com/SMAKSS/react-scroll-direction)** - Detect scroll direction in react applications.  (4 weeks ago)
 - **[StutiPradhan/CodeWrite](https://github.com/StutiPradhan/CodeWrite)** (1 month ago)
