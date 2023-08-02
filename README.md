@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[ArnabChatterjee20k/TypeScript-Projects](https://github.com/ArnabChatterjee20k/TypeScript-Projects)** - Contains basic typescript projects to master and understand typescript (today)
-- **[WhiteFang033/Infinity](https://github.com/WhiteFang033/Infinity)** (2 weeks ago)
+- **[ArnabChatterjee20k/TypeScript-Projects](https://github.com/ArnabChatterjee20k/TypeScript-Projects)** - Contains basic typescript projects to master and understand typescript (1 day ago)
+- **[WhiteFang033/Infinity](https://github.com/WhiteFang033/Infinity)** (3 weeks ago)
 - **[SMAKSS/react-scroll-direction](https://github.com/SMAKSS/react-scroll-direction)** - Detect scroll direction in react applications.  (1 month ago)
