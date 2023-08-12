@@ -13,7 +13,7 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 1 week ago</li>
+<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - today</li>
 <li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 1 month ago</li>
 <li><b><a href="https://github.com/StutiPradhan/CodeWrite">StutiPradhan/CodeWrite</a></b> -  - 1 month ago</li>
 </ul>
@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[graphql/graphql-http](https://github.com/graphql/graphql-http)** - Simple, pluggable, zero-dependency, GraphQL over HTTP spec compliant server, client and audit suite. (5 days ago)
+- **[graphql/graphql-http](https://github.com/graphql/graphql-http)** - Simple, pluggable, zero-dependency, GraphQL over HTTP spec compliant server, client and audit suite. (6 days ago)
 - **[ArnabChatterjee20k/TypeScript-Projects](https://github.com/ArnabChatterjee20k/TypeScript-Projects)** - Contains basic typescript projects to master and understand typescript (1 week ago)
 - **[WhiteFang033/Infinity](https://github.com/WhiteFang033/Infinity)** (1 month ago)
