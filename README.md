@@ -13,7 +13,7 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 1 week ago</li>
+<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 2 weeks ago</li>
 <li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 2 months ago</li>
 <li><b><a href="https://github.com/StutiPradhan/CodeWrite">StutiPradhan/CodeWrite</a></b> -  - 2 months ago</li>
 </ul>
@@ -27,8 +27,8 @@ Repository | Description | Last release tag | Publish time |
 
 
 - [jayzsh/Charity @ 1.0.2-beta](https://github.com/jayzsh/Charity/releases/tag/1.0.2-beta) (4 months ago)
-- [jayzsh/Acorn @ 1.0-alpha.0](https://github.com/jayzsh/Acorn/releases/tag/1.0-alpha.0) (4 months ago)
 - [jayzsh/URLTag @ v0.5-beta.0](https://github.com/jayzsh/URLTag/releases/tag/v0.5-beta.0) (5 months ago)
+- [gsasansol/GirlScript-Asansol @ 1.0.0-beta](https://github.com/gsasansol/GirlScript-Asansol/releases/tag/1.0.0-beta) (10 months ago)
 
 #### 📚 Books I'm reading
 - **[Automate the Boring Stuff with Python, 2nd Edition - Practical Programming for Total Beginners](https://literal.club/jayzsh/book/al-sweigart-automate-the-boring-stuff-with-python-2nd-edition-x47zp)** by _Al Sweigart_
@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
+- **[modularml/mojo](https://github.com/modularml/mojo)** - The Mojo Programming Language (today)
 - **[graphql/graphql-http](https://github.com/graphql/graphql-http)** - Simple, pluggable, zero-dependency, GraphQL over HTTP spec compliant server, client and audit suite. (1 month ago)
 - **[ArnabChatterjee20k/TypeScript-Projects](https://github.com/ArnabChatterjee20k/TypeScript-Projects)** - Contains basic typescript projects to master and understand typescript (1 month ago)
-- **[WhiteFang033/Infinity](https://github.com/WhiteFang033/Infinity)** (1 month ago)
