@@ -13,7 +13,7 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 3 weeks ago</li>
+<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 4 weeks ago</li>
 <li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 2 months ago</li>
 <li><b><a href="https://github.com/StutiPradhan/CodeWrite">StutiPradhan/CodeWrite</a></b> -  - 3 months ago</li>
 </ul>
@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[modularml/mojo](https://github.com/modularml/mojo)** - The Mojo Programming Language (1 week ago)
+- **[modularml/mojo](https://github.com/modularml/mojo)** - The Mojo Programming Language (2 weeks ago)
 - **[graphql/graphql-http](https://github.com/graphql/graphql-http)** - Simple, pluggable, zero-dependency, GraphQL over HTTP spec compliant server, client and audit suite. (1 month ago)
 - **[ArnabChatterjee20k/TypeScript-Projects](https://github.com/ArnabChatterjee20k/TypeScript-Projects)** - Contains basic typescript projects to master and understand typescript (1 month ago)
