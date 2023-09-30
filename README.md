@@ -14,8 +14,8 @@ Repository | Description | Last release tag | Publish time |
 
 <ul>
 <li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-web">gdsc-aec-india/gdsc-aec-web</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - today</li>
-<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 1 month ago</li>
-<li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 2 months ago</li>
+<li><b><a href="https://github.com/gdsc-aec-india/branding">gdsc-aec-india/branding</a></b> - Branding assets of GDSC AEC - today</li>
+<li><b><a href="https://github.com/gdsc-aec-india/.github">gdsc-aec-india/.github</a></b> - Profile README - today</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
