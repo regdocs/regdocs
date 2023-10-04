@@ -13,9 +13,9 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-web">gdsc-aec-india/gdsc-aec-web</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - 1 day ago</li>
-<li><b><a href="https://github.com/gdsc-aec-india/git-playground">gdsc-aec-india/git-playground</a></b> - Playground repo included in opensource starter pack (feel free to play around, maintainers will be with you shortly) - 2 days ago</li>
-<li><b><a href="https://github.com/gdsc-aec-india/branding">gdsc-aec-india/branding</a></b> - Branding assets of GDSC AEC - 3 days ago</li>
+<li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-web">gdsc-aec-india/gdsc-aec-web</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - 2 days ago</li>
+<li><b><a href="https://github.com/gdsc-aec-india/git-playground">gdsc-aec-india/git-playground</a></b> - Playground repo included in opensource starter pack (feel free to play around, maintainers will be with you shortly) - 3 days ago</li>
+<li><b><a href="https://github.com/gdsc-aec-india/branding">gdsc-aec-india/branding</a></b> - Branding assets of GDSC AEC - 4 days ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
@@ -28,7 +28,7 @@ Repository | Description | Last release tag | Publish time |
 
 - [jayzsh/Charity @ 1.0.2-beta](https://github.com/jayzsh/Charity/releases/tag/1.0.2-beta) (5 months ago)
 - [jayzsh/URLTag @ v0.5-beta.0](https://github.com/jayzsh/URLTag/releases/tag/v0.5-beta.0) (6 months ago)
-- [gsasansol/GirlScript-Asansol @ 1.0.0-beta](https://github.com/gsasansol/GirlScript-Asansol/releases/tag/1.0.0-beta) (10 months ago)
+- [gsasansol/GirlScript-Asansol @ 1.0.0-beta](https://github.com/gsasansol/GirlScript-Asansol/releases/tag/1.0.0-beta) (11 months ago)
 
 #### 📚 Books I'm reading
 - **[Automate the Boring Stuff with Python, 2nd Edition - Practical Programming for Total Beginners](https://literal.club/jayzsh/book/al-sweigart-automate-the-boring-stuff-with-python-2nd-edition-x47zp)** by _Al Sweigart_
@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[gdsc-aec-india/gdsc-aec-web](https://github.com/gdsc-aec-india/gdsc-aec-web)** - Official Website of GDSC Asansol Engineering College, West Bengal (3 days ago)
+- **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (today)
+- **[gdsc-aec-india/gdsc-aec-web](https://github.com/gdsc-aec-india/gdsc-aec-web)** - Official Website of GDSC Asansol Engineering College, West Bengal (4 days ago)
 - **[modularml/mojo](https://github.com/modularml/mojo)** - The Mojo Programming Language (3 weeks ago)
-- **[graphql/graphql-http](https://github.com/graphql/graphql-http)** - Simple, pluggable, zero-dependency, GraphQL over HTTP spec compliant server, client and audit suite. (1 month ago)
