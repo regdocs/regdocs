@@ -13,7 +13,7 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-web">gdsc-aec-india/gdsc-aec-web</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - today</li>
+<li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-web">gdsc-aec-india/gdsc-aec-web</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - 1 day ago</li>
 <li><b><a href="https://github.com/gdsc-aec-india/branding">gdsc-aec-india/branding</a></b> - Branding assets of GDSC AEC - 1 week ago</li>
 <li><b><a href="https://github.com/gdsc-aec-india/git-playground">gdsc-aec-india/git-playground</a></b> - Playground repo included in opensource starter pack (feel free to play around, maintainers will be with you shortly) - 2 weeks ago</li>
 </ul>
@@ -37,5 +37,5 @@ Repository | Description | Last release tag | Publish time |
 
 #### ⭐ Recent Stars
 - **[ArnabChatterjee20k/DoCU_It](https://github.com/ArnabChatterjee20k/DoCU_It)** - A gui automation tool for students for automating projects. Server is present to authenticate to store and send files  (1 week ago)
-- **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (1 week ago)
+- **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (2 weeks ago)
 - **[gdsc-aec-india/gdsc-aec-web](https://github.com/gdsc-aec-india/gdsc-aec-web)** - Official Website of GDSC Asansol Engineering College, West Bengal (2 weeks ago)
