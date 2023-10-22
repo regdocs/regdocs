@@ -13,8 +13,8 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/jay-io-LXIX/meowmeow.github.io">jay-io-LXIX/meowmeow.github.io</a></b> - meow meow - 2 days ago</li>
-<li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-web">gdsc-aec-india/gdsc-aec-web</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - 4 days ago</li>
+<li><b><a href="https://github.com/jay-io-LXIX/meowmeow.github.io">jay-io-LXIX/meowmeow.github.io</a></b> - meow meow - 3 days ago</li>
+<li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-web">gdsc-aec-india/gdsc-aec-web</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - 5 days ago</li>
 <li><b><a href="https://github.com/gdsc-aec-india/branding">gdsc-aec-india/branding</a></b> - Branding assets of GDSC AEC - 2 weeks ago</li>
 </ul>
 
