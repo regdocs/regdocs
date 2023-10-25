@@ -13,7 +13,7 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/jay-io-LXIX/meowmeow.github.io">jay-io-LXIX/meowmeow.github.io</a></b> - meow meow - 5 days ago</li>
+<li><b><a href="https://github.com/jay-io-LXIX/meowmeow.github.io">jay-io-LXIX/meowmeow.github.io</a></b> - meow meow - 6 days ago</li>
 <li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-web">gdsc-aec-india/gdsc-aec-web</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - 1 week ago</li>
 <li><b><a href="https://github.com/gdsc-aec-india/branding">gdsc-aec-india/branding</a></b> - Branding assets of GDSC AEC - 2 weeks ago</li>
 </ul>
@@ -37,5 +37,5 @@ Repository | Description | Last release tag | Publish time |
 
 #### ⭐ Recent Stars
 - **[ArnabChatterjee20k/DoCU_It](https://github.com/ArnabChatterjee20k/DoCU_It)** - A gui automation tool for students for automating projects. Server is present to authenticate to store and send files  (2 weeks ago)
-- **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (2 weeks ago)
+- **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (3 weeks ago)
 - **[gdsc-aec-india/gdsc-aec-web](https://github.com/gdsc-aec-india/gdsc-aec-web)** - Official Website of GDSC Asansol Engineering College, West Bengal (3 weeks ago)
