@@ -37,5 +37,5 @@ Repository | Description | Last release tag | Publish time |
 
 #### ⭐ Recent Stars
 - **[ArnabChatterjee20k/DoCU_It](https://github.com/ArnabChatterjee20k/DoCU_It)** - A gui automation tool for students for automating projects. Server is present to authenticate to store and send files  (3 weeks ago)
-- **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (3 weeks ago)
+- **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (4 weeks ago)
 - **[gdsc-aec-india/gdsc-aec-static](https://github.com/gdsc-aec-india/gdsc-aec-static)** - Official Website of GDSC Asansol Engineering College, West Bengal (1 month ago)
