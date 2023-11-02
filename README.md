@@ -13,7 +13,7 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/jay-io-LXIX/meowmeow.github.io">jay-io-LXIX/meowmeow.github.io</a></b> - meow meow - 1 week ago</li>
+<li><b><a href="https://github.com/jay-io-LXIX/meowmeow.github.io">jay-io-LXIX/meowmeow.github.io</a></b> - meow meow - 2 weeks ago</li>
 <li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-static">gdsc-aec-india/gdsc-aec-static</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - 2 weeks ago</li>
 <li><b><a href="https://github.com/gdsc-aec-india/branding">gdsc-aec-india/branding</a></b> - Branding assets of GDSC AEC - 3 weeks ago</li>
 </ul>
@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[ArnabChatterjee20k/DoCU_It](https://github.com/ArnabChatterjee20k/DoCU_It)** - A gui automation tool for students for automating projects. Server is present to authenticate to store and send files  (3 weeks ago)
+- **[ArnabChatterjee20k/DoCU_It](https://github.com/ArnabChatterjee20k/DoCU_It)** - A gui automation tool for students for automating projects. Server is present to authenticate to store and send files  (4 weeks ago)
 - **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (4 weeks ago)
 - **[gdsc-aec-india/gdsc-aec-static](https://github.com/gdsc-aec-india/gdsc-aec-static)** - Official Website of GDSC Asansol Engineering College, West Bengal (1 month ago)
