@@ -15,7 +15,7 @@ Repository | Description | Last release tag | Publish time |
 <ul>
 <li><b><a href="https://github.com/jay-io-LXIX/meowmeow.github.io">jay-io-LXIX/meowmeow.github.io</a></b> - meow meow - 2 weeks ago</li>
 <li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-static">gdsc-aec-india/gdsc-aec-static</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - 2 weeks ago</li>
-<li><b><a href="https://github.com/gdsc-aec-india/branding">gdsc-aec-india/branding</a></b> - Branding assets of GDSC AEC - 3 weeks ago</li>
+<li><b><a href="https://github.com/gdsc-aec-india/branding">gdsc-aec-india/branding</a></b> - Branding assets of GDSC AEC - 4 weeks ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
@@ -28,7 +28,7 @@ Repository | Description | Last release tag | Publish time |
 
 - [jayzsh/Charity @ 1.0.2-beta](https://github.com/jayzsh/Charity/releases/tag/1.0.2-beta) (6 months ago)
 - [jayzsh/URLTag @ v0.5-beta.0](https://github.com/jayzsh/URLTag/releases/tag/v0.5-beta.0) (7 months ago)
-- [gsasansol/GirlScript-Asansol @ 1.0.0-beta](https://github.com/gsasansol/GirlScript-Asansol/releases/tag/1.0.0-beta) (11 months ago)
+- [gsasansol/GirlScript-Asansol @ 1.0.0-beta](https://github.com/gsasansol/GirlScript-Asansol/releases/tag/1.0.0-beta) (1 year ago)
 
 #### 📚 Books I'm reading
 - **[Automate the Boring Stuff with Python, 2nd Edition - Practical Programming for Total Beginners](https://literal.club/jayzsh/book/al-sweigart-automate-the-boring-stuff-with-python-2nd-edition-x47zp)** by _Al Sweigart_
@@ -37,5 +37,5 @@ Repository | Description | Last release tag | Publish time |
 
 #### ⭐ Recent Stars
 - **[ArnabChatterjee20k/DoCU_It](https://github.com/ArnabChatterjee20k/DoCU_It)** - A gui automation tool for students for automating projects. Server is present to authenticate to store and send files  (4 weeks ago)
-- **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (4 weeks ago)
+- **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (1 month ago)
 - **[gdsc-aec-india/gdsc-aec-static](https://github.com/gdsc-aec-india/gdsc-aec-static)** - Official Website of GDSC Asansol Engineering College, West Bengal (1 month ago)
