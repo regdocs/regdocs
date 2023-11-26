@@ -28,7 +28,6 @@ Repository | Description | Last release tag | Publish time |
 
 - [jayzsh/Charity @ 1.0.2-beta](https://github.com/jayzsh/Charity/releases/tag/1.0.2-beta) (7 months ago)
 - [jayzsh/URLTag @ v0.5-beta.0](https://github.com/jayzsh/URLTag/releases/tag/v0.5-beta.0) (8 months ago)
-- [gsasansol/GirlScript-Asansol @ 1.0.0-beta](https://github.com/gsasansol/GirlScript-Asansol/releases/tag/1.0.0-beta) (1 year ago)
 
 #### 📚 Books I'm reading
 - **[Automate the Boring Stuff with Python, 2nd Edition - Practical Programming for Total Beginners](https://literal.club/jayzsh/book/al-sweigart-automate-the-boring-stuff-with-python-2nd-edition-x47zp)** by _Al Sweigart_
