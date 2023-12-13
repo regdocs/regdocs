@@ -14,7 +14,7 @@ Repository | Description | Last release tag | Publish time |
 
 <ul>
 <li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 1 week ago</li>
-<li><b><a href="https://github.com/stt-crm/.github">stt-crm/.github</a></b> -  - 3 weeks ago</li>
+<li><b><a href="https://github.com/stt-crm/.github">stt-crm/.github</a></b> -  - 4 weeks ago</li>
 <li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-static">gdsc-aec-india/gdsc-aec-static</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - 1 month ago</li>
 </ul>
 
@@ -35,6 +35,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)** - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems (4 weeks ago)
+- **[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)** - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems (1 month ago)
 - **[ArnabChatterjee20k/DoCU_It](https://github.com/ArnabChatterjee20k/DoCU_It)** - A gui automation tool for students for automating projects. Server is present to authenticate to store and send files  (2 months ago)
 - **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (2 months ago)
