@@ -13,9 +13,9 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 1 week ago</li>
+<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 2 weeks ago</li>
 <li><b><a href="https://github.com/stt-crm/.github">stt-crm/.github</a></b> -  - 1 month ago</li>
-<li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-static">gdsc-aec-india/gdsc-aec-static</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - 1 month ago</li>
+<li><b><a href="https://github.com/gdsc-aec-india/gdsc-aec-static">gdsc-aec-india/gdsc-aec-static</a></b> - Official Website of GDSC Asansol Engineering College, West Bengal - 2 months ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
