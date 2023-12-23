@@ -13,9 +13,9 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
+<li><b><a href="https://github.com/jayzsh/Acorn">jayzsh/Acorn</a></b> - Acorn is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  - today</li>
 <li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - today</li>
 <li><b><a href="https://github.com/jayzsh/Personal-Website">jayzsh/Personal-Website</a></b> - My personal website using Vite + React.js + Tailwind + Redux Toolkit - 2 days ago</li>
-<li><b><a href="https://github.com/stt-crm/.github">stt-crm/.github</a></b> -  - 1 month ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
@@ -27,6 +27,7 @@ Repository | Description | Last release tag | Publish time |
 
 
 - [jayzsh/Charity @ 1.0.2-beta](https://github.com/jayzsh/Charity/releases/tag/1.0.2-beta) (8 months ago)
+- [jayzsh/Acorn @ 1.0-alpha.0](https://github.com/jayzsh/Acorn/releases/tag/1.0-alpha.0) (8 months ago)
 - [jayzsh/URLTag @ v0.5-beta.0](https://github.com/jayzsh/URLTag/releases/tag/v0.5-beta.0) (9 months ago)
 
 #### 📚 Books I'm reading
