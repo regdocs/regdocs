@@ -14,8 +14,8 @@ Repository | Description | Last release tag | Publish time |
 
 <ul>
 <li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - today</li>
-<li><b><a href="https://github.com/jayzsh/URLTag">jayzsh/URLTag</a></b> - Analytics API for the web; generate tracking tags and monitor traffic. URLTag uses GET-image HTTP requests to register hits. - 1 day ago</li>
-<li><b><a href="https://github.com/jayzsh/Acorn">jayzsh/Acorn</a></b> - Acorn is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  - 4 days ago</li>
+<li><b><a href="https://github.com/jayzsh/URLTag">jayzsh/URLTag</a></b> - Analytics API for the web; generate tracking tags and monitor traffic. URLTag uses GET-image HTTP requests to register hits. - 2 days ago</li>
+<li><b><a href="https://github.com/jayzsh/Acorn">jayzsh/Acorn</a></b> - Acorn is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  - 5 days ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
