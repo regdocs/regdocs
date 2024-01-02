@@ -13,8 +13,8 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 4 days ago</li>
-<li><b><a href="https://github.com/jayzsh/URLTag">jayzsh/URLTag</a></b> - Analytics API for the web; generate tracking tags and monitor traffic. URLTag uses GET-image HTTP requests to register hits. - 6 days ago</li>
+<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 5 days ago</li>
+<li><b><a href="https://github.com/jayzsh/URLTag">jayzsh/URLTag</a></b> - Analytics API for the web; generate tracking tags and monitor traffic. URLTag uses GET-image HTTP requests to register hits. - 1 week ago</li>
 <li><b><a href="https://github.com/jayzsh/Acorn">jayzsh/Acorn</a></b> - Acorn is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  - 1 week ago</li>
 </ul>
 
@@ -38,4 +38,4 @@ Repository | Description | Last release tag | Publish time |
 #### ⭐ Recent Stars
 - **[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)** - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems (1 month ago)
 - **[ArnabChatterjee20k/DoCU_It](https://github.com/ArnabChatterjee20k/DoCU_It)** - A gui automation tool for students for automating projects. Server is present to authenticate to store and send files  (2 months ago)
-- **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (2 months ago)
+- **[mappls-api/flutter-mapmyindia-gl](https://github.com/mappls-api/flutter-mapmyindia-gl)** (3 months ago)
