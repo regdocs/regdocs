@@ -13,9 +13,9 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 1 day ago</li>
+<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 2 days ago</li>
 <li><b><a href="https://github.com/jayzsh/URLTag">jayzsh/URLTag</a></b> - Analytics API for the web; generate tracking tags and monitor traffic. URLTag uses GET-image HTTP requests to register hits. - 1 week ago</li>
-<li><b><a href="https://github.com/jayzsh/Acorn">jayzsh/Acorn</a></b> - Acorn is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  - 1 week ago</li>
+<li><b><a href="https://github.com/jayzsh/Acorn">jayzsh/Acorn</a></b> - Acorn is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  - 2 weeks ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[mrvautin/adminMongo](https://github.com/mrvautin/adminMongo)** - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs. (today)
+- **[mrvautin/adminMongo](https://github.com/mrvautin/adminMongo)** - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs. (1 day ago)
 - **[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)** - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems (1 month ago)
 - **[ArnabChatterjee20k/DoCU_It](https://github.com/ArnabChatterjee20k/DoCU_It)** - A gui automation tool for students for automating projects. Server is present to authenticate to store and send files  (3 months ago)
