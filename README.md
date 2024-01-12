@@ -13,9 +13,9 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 1 day ago</li>
-<li><b><a href="https://github.com/stazsh/dukaan-dash">stazsh/dukaan-dash</a></b> - Dukaan dashboard - 1 day ago</li>
-<li><b><a href="https://github.com/jayzsh/WNetNode">jayzsh/WNetNode</a></b> - WNetNode is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  - 4 days ago</li>
+<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 2 days ago</li>
+<li><b><a href="https://github.com/stazsh/dukaan-dash">stazsh/dukaan-dash</a></b> - Dukaan dashboard - 2 days ago</li>
+<li><b><a href="https://github.com/jayzsh/WNetNode">jayzsh/WNetNode</a></b> - WNetNode is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  - 5 days ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
@@ -36,6 +36,6 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
 
 #### ⭐ Recent Stars
-- **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (3 days ago)
-- **[mrvautin/adminMongo](https://github.com/mrvautin/adminMongo)** - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs. (6 days ago)
-- **[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)** - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems (1 month ago)
+- **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (4 days ago)
+- **[mrvautin/adminMongo](https://github.com/mrvautin/adminMongo)** - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs. (1 week ago)
+- **[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)** - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems (2 months ago)
