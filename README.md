@@ -13,8 +13,8 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 2 days ago</li>
-<li><b><a href="https://github.com/stazsh/dukaan-dash">stazsh/dukaan-dash</a></b> - Dukaan dashboard - 6 days ago</li>
+<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 3 days ago</li>
+<li><b><a href="https://github.com/stazsh/dukaan-dash">stazsh/dukaan-dash</a></b> - Dukaan dashboard - 1 week ago</li>
 <li><b><a href="https://github.com/jayzsh/WNetNode">jayzsh/WNetNode</a></b> - WNetNode is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  - 1 week ago</li>
 </ul>
 
