@@ -37,5 +37,5 @@ Repository | Description | Last release tag | Publish time |
 
 #### ⭐ Recent Stars
 - **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (2 weeks ago)
-- **[mrvautin/adminMongo](https://github.com/mrvautin/adminMongo)** - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs. (2 weeks ago)
+- **[mrvautin/adminMongo](https://github.com/mrvautin/adminMongo)** - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs. (3 weeks ago)
 - **[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)** - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems (2 months ago)
