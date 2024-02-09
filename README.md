@@ -13,9 +13,9 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/Delusional-diversion/procertify-express">Delusional-diversion/procertify-express</a></b> -  - 4 days ago</li>
+<li><b><a href="https://github.com/Delusional-diversion/procertify-express">Delusional-diversion/procertify-express</a></b> -  - 5 days ago</li>
 <li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 3 weeks ago</li>
-<li><b><a href="https://github.com/stazsh/dukaan-dash">stazsh/dukaan-dash</a></b> - Dukaan dashboard - 4 weeks ago</li>
+<li><b><a href="https://github.com/stazsh/dukaan-dash">stazsh/dukaan-dash</a></b> - Dukaan dashboard - 1 month ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
