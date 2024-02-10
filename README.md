@@ -13,7 +13,7 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/Delusional-diversion/procertify-express">Delusional-diversion/procertify-express</a></b> -  - 5 days ago</li>
+<li><b><a href="https://github.com/Delusional-diversion/procertify-express">Delusional-diversion/procertify-express</a></b> -  - 6 days ago</li>
 <li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 3 weeks ago</li>
 <li><b><a href="https://github.com/stazsh/dukaan-dash">stazsh/dukaan-dash</a></b> - Dukaan dashboard - 1 month ago</li>
 </ul>
@@ -26,7 +26,6 @@ Repository | Description | Last release tag | Publish time |
 #### 🚀 Latest releases I've contributed to
 
 
-- [jayzsh/Charity @ 1.0.2-beta](https://github.com/jayzsh/Charity/releases/tag/1.0.2-beta) (9 months ago)
 - [jayzsh/WNetNode @ 1.0-alpha.0](https://github.com/jayzsh/WNetNode/releases/tag/1.0-alpha.0) (9 months ago)
 - [jayzsh/URLTag @ v0.5-beta.0](https://github.com/jayzsh/URLTag/releases/tag/v0.5-beta.0) (10 months ago)
 
