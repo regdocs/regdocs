@@ -13,7 +13,7 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/Delusional-diversion/procertify-express">Delusional-diversion/procertify-express</a></b> -  - 4 weeks ago</li>
+<li><b><a href="https://github.com/Delusional-diversion/procertify-express">Delusional-diversion/procertify-express</a></b> -  - 1 month ago</li>
 <li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 1 month ago</li>
 <li><b><a href="https://github.com/stazsh/dukaan-dash">stazsh/dukaan-dash</a></b> - Dukaan dashboard - 1 month ago</li>
 </ul>
@@ -36,5 +36,5 @@ Repository | Description | Last release tag | Publish time |
 
 #### ⭐ Recent Stars
 - **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (1 month ago)
-- **[mrvautin/adminMongo](https://github.com/mrvautin/adminMongo)** - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs. (1 month ago)
+- **[mrvautin/adminMongo](https://github.com/mrvautin/adminMongo)** - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs. (2 months ago)
 - **[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)** - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems (3 months ago)
