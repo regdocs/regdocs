@@ -15,7 +15,7 @@ Repository | Description | Last release tag | Publish time |
 <ul>
 <li><b><a href="https://github.com/Delusional-diversion/procertify-express">Delusional-diversion/procertify-express</a></b> -  - 2 months ago</li>
 <li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 2 months ago</li>
-<li><b><a href="https://github.com/stazsh/dukaan-dash">stazsh/dukaan-dash</a></b> - Dukaan dashboard - 2 months ago</li>
+<li><b><a href="https://github.com/stazsh/dukaan-dash">stazsh/dukaan-dash</a></b> - Dukaan dashboard - 3 months ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
