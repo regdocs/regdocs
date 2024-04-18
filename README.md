@@ -6,16 +6,16 @@ I'm **Jay**, an avid Pythonista and admirer of all things Computer Science.
 Repository | Description | Last release tag | Publish time |
 -----------|-------------|------------------|--------------|
  [jayzsh/TurboZAS](https://github.com/jayzsh/TurboZAS) | Immersive and retro style apocalypse themed escape-room adventure game on the Windows 3.x terminal | v1.1-stable | 2 years ago
- [jayzsh/WNetNode](https://github.com/jayzsh/WNetNode) | WNetNode is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  | 1.0-alpha.0 | 11 months ago
- [jayzsh/Charity](https://github.com/jayzsh/Charity) | Versatile moderation and community management bot utilising modern Pythonic Discord API (PyPI v1.7.2) | 1.0.2-beta | 11 months ago
+ [jayzsh/WNetNode](https://github.com/jayzsh/WNetNode) | WNetNode is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  | 1.0-alpha.0 | 1 year ago
+ [jayzsh/Charity](https://github.com/jayzsh/Charity) | Versatile moderation and community management bot utilising modern Pythonic Discord API (PyPI v1.7.2) | 1.0.2-beta | 1 year ago
  [jayzsh/URLTag](https://github.com/jayzsh/URLTag) | Analytics API for the web; generate tracking links and monitor traffic. URLTag uses GET-image HTTP requests to register hits. | v0.5-beta.0 | 1 year ago
 
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/worlds-best-team/cipher-io-react">worlds-best-team/cipher-io-react</a></b> - React client for Cipher.io - today</li>
-<li><b><a href="https://github.com/worlds-best-team/.github">worlds-best-team/.github</a></b> - Organisation README repository - 4 days ago</li>
-<li><b><a href="https://github.com/worlds-best-team/cipher-io-flutter">worlds-best-team/cipher-io-flutter</a></b> - Flutter client for Cipher.io - 5 days ago</li>
+<li><b><a href="https://github.com/worlds-best-team/cipher-io-react">worlds-best-team/cipher-io-react</a></b> - React client for Cipher.io - 1 day ago</li>
+<li><b><a href="https://github.com/worlds-best-team/.github">worlds-best-team/.github</a></b> - Organisation README repository - 5 days ago</li>
+<li><b><a href="https://github.com/worlds-best-team/cipher-io-flutter">worlds-best-team/cipher-io-flutter</a></b> - Flutter client for Cipher.io - 6 days ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
@@ -26,7 +26,7 @@ Repository | Description | Last release tag | Publish time |
 #### 🚀 Latest releases I've contributed to
 
 
-- [jayzsh/WNetNode @ 1.0-alpha.0](https://github.com/jayzsh/WNetNode/releases/tag/1.0-alpha.0) (11 months ago)
+- [jayzsh/WNetNode @ 1.0-alpha.0](https://github.com/jayzsh/WNetNode/releases/tag/1.0-alpha.0) (1 year ago)
 - [jayzsh/URLTag @ v0.5-beta.0](https://github.com/jayzsh/URLTag/releases/tag/v0.5-beta.0) (1 year ago)
 
 #### 📚 Books I'm reading
