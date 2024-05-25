@@ -33,6 +33,9 @@ Repository | Description | Last release tag | Publish time |
 - **[TCP/IP Illustrated](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-2ra1o)** by _W. Richard Stevens, Kevin R. Fall_
 - **[The Lord of the Rings - The two towers. part two](https://literal.club/jayzsh/book/the-lord-of-the-rings-n69jk)** by _J.R.R. Tolkien_
 - **[Eloquent JavaScript - A Modern Introduction to Programming](https://literal.club/jayzsh/book/eloquent-javascript-fkikd)** by _Marijn Haverbeke_
+- **[Grokking the System Design Interview - A Step by Step Guide to Master the System Design Interview](https://literal.club/jayzsh/book/design-gurus-grokking-the-system-design-interview-2wivl)** by _Design Gurus_
+- **[Modern Operating Systems](https://literal.club/jayzsh/book/andrew-s-tanenbaum-modern-operating-systems-dejf3)** by _Andrew S. Tanenbaum_
+- **[Designing Data-Intensive Applications - The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://literal.club/jayzsh/book/designing-data-intensive-applications-i9by0)** by _Martin Kleppmann_
 
 #### ⭐ Recent Stars
 - **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (4 months ago)
