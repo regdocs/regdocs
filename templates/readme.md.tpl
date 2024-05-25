@@ -32,7 +32,7 @@ Repository | Description | Last release tag | Publish time |
 
 #### 📚 Books I'm reading
 
-{{- range literalClubCurrentlyReading 3 }}
+{{- range literalClubCurrentlyReading 6 }}
 - **[{{ .Title }}{{ with .Subtitle }} - {{ . }}{{ end }}](https://literal.club/jayzsh/book/{{.Slug}})** by _{{ range $i, $a := .Authors }}{{ if gt $i 0 }}, {{ end }}{{ $a.Name }}{{ end }}_
 {{- end }}
 
