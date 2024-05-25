@@ -13,9 +13,9 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/worlds-best-team/cipher-io-react">worlds-best-team/cipher-io-react</a></b> - React client for Cipher.io - 2 days ago</li>
-<li><b><a href="https://github.com/worlds-best-team/cipher-io-wss">worlds-best-team/cipher-io-wss</a></b> - Web Socket server for Cipher.io - 2 days ago</li>
-<li><b><a href="https://github.com/worlds-best-team/.github">worlds-best-team/.github</a></b> - Organisation README repository - 1 week ago</li>
+<li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 4 days ago</li>
+<li><b><a href="https://github.com/worlds-best-team/cipher-io-react">worlds-best-team/cipher-io-react</a></b> - React client for Cipher.io - 1 month ago</li>
+<li><b><a href="https://github.com/worlds-best-team/cipher-io-wss">worlds-best-team/cipher-io-wss</a></b> - Web Socket server for Cipher.io - 1 month ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
@@ -30,11 +30,11 @@ Repository | Description | Last release tag | Publish time |
 - [jayzsh/URLTag @ v0.5-beta.0](https://github.com/jayzsh/URLTag/releases/tag/v0.5-beta.0) (1 year ago)
 
 #### 📚 Books I'm reading
-- **[Automate the Boring Stuff with Python, 2nd Edition - Practical Programming for Total Beginners](https://literal.club/jayzsh/book/al-sweigart-automate-the-boring-stuff-with-python-2nd-edition-x47zp)** by _Al Sweigart_
-- **[Hands-On Machine Learning with Scikit-Learn and TensorFlow - Concepts, Tools, and Techniques to Build Intelligent Systems](https://literal.club/jayzsh/book/hands-on-machine-learning-with-scikit-learn-and-tensorflow-pw0fv)** by _Aurélien Géron_
-- **[TCP/IP Illustrated, Volume 1 - The Protocols](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-volume-1-q1kwv)** by _W. Richard Stevens, Kevin R. Fall_
+- **[TCP/IP Illustrated](https://literal.club/jayzsh/book/kevin-r-fall-w-richard-stevens-tcpip-illustrated-2ra1o)** by _W. Richard Stevens, Kevin R. Fall_
+- **[The Lord of the Rings - The two towers. part two](https://literal.club/jayzsh/book/the-lord-of-the-rings-n69jk)** by _J.R.R. Tolkien_
+- **[Eloquent JavaScript - A Modern Introduction to Programming](https://literal.club/jayzsh/book/eloquent-javascript-fkikd)** by _Marijn Haverbeke_
 
 #### ⭐ Recent Stars
-- **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (3 months ago)
-- **[mrvautin/adminMongo](https://github.com/mrvautin/adminMongo)** - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs. (3 months ago)
-- **[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)** - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems (5 months ago)
+- **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (4 months ago)
+- **[mrvautin/adminMongo](https://github.com/mrvautin/adminMongo)** - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs. (4 months ago)
+- **[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)** - Learn System Design concepts and prepare for interviews using free resources. (6 months ago)
