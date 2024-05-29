@@ -13,8 +13,8 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/worlds-best-team/cipher-io-trpc">worlds-best-team/cipher-io-trpc</a></b> - tRPC and WS server for Cipher.io - today</li>
-<li><b><a href="https://github.com/worlds-best-team/cipher-io-react">worlds-best-team/cipher-io-react</a></b> - React client for Cipher.io - today</li>
+<li><b><a href="https://github.com/worlds-best-team/cipher-io-trpc">worlds-best-team/cipher-io-trpc</a></b> - tRPC and WS server for Cipher.io - 1 day ago</li>
+<li><b><a href="https://github.com/worlds-best-team/cipher-io-react">worlds-best-team/cipher-io-react</a></b> - React client for Cipher.io - 1 day ago</li>
 <li><b><a href="https://github.com/stazsh/uhfindia-admin">stazsh/uhfindia-admin</a></b> - Admin panel for United Hope Foundation, India - 1 week ago</li>
 </ul>
 
@@ -38,6 +38,6 @@ Repository | Description | Last release tag | Publish time |
 - **[Designing Data-Intensive Applications - The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://literal.club/jayzsh/book/designing-data-intensive-applications-i9by0)** by _Martin Kleppmann_
 
 #### ⭐ Recent Stars
-- **[anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js)** - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:  (today)
+- **[anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js)** - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:  (1 day ago)
 - **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (4 months ago)
 - **[mrvautin/adminMongo](https://github.com/mrvautin/adminMongo)** - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs. (4 months ago)
