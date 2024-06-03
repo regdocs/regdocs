@@ -14,8 +14,8 @@ Repository | Description | Last release tag | Publish time |
 
 <ul>
 <li><b><a href="https://github.com/worlds-best-team/rust-prolog">worlds-best-team/rust-prolog</a></b> - Entry level programs in Rust - today</li>
-<li><b><a href="https://github.com/worlds-best-team/cipher-io-react">worlds-best-team/cipher-io-react</a></b> - React client for Cipher.io - 5 days ago</li>
-<li><b><a href="https://github.com/worlds-best-team/cipher-io-trpc">worlds-best-team/cipher-io-trpc</a></b> - tRPC and WS server for Cipher.io - 5 days ago</li>
+<li><b><a href="https://github.com/worlds-best-team/cipher-io-react">worlds-best-team/cipher-io-react</a></b> - React client for Cipher.io - 6 days ago</li>
+<li><b><a href="https://github.com/worlds-best-team/cipher-io-trpc">worlds-best-team/cipher-io-trpc</a></b> - tRPC and WS server for Cipher.io - 6 days ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
@@ -38,6 +38,6 @@ Repository | Description | Last release tag | Publish time |
 - **[Designing Data-Intensive Applications - The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://literal.club/jayzsh/book/designing-data-intensive-applications-i9by0)** by _Martin Kleppmann_
 
 #### ⭐ Recent Stars
-- **[rust-lang/book](https://github.com/rust-lang/book)** - The Rust Programming Language (3 days ago)
-- **[anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js)** - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:  (5 days ago)
+- **[rust-lang/book](https://github.com/rust-lang/book)** - The Rust Programming Language (4 days ago)
+- **[anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js)** - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:  (6 days ago)
 - **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (4 months ago)
