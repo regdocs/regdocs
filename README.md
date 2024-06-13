@@ -13,9 +13,9 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/jayzsh/express-typescript-eslint-prettier-template">jayzsh/express-typescript-eslint-prettier-template</a></b> - express-typescript-eslint-prettier-template - 1 day ago</li>
+<li><b><a href="https://github.com/jayzsh/express-typescript-eslint-prettier-template">jayzsh/express-typescript-eslint-prettier-template</a></b> - express-typescript-eslint-prettier-template - 2 days ago</li>
 <li><b><a href="https://github.com/jayzsh/rust-prolog">jayzsh/rust-prolog</a></b> - Entry level programs in Rust (I'm learning Rust) - 1 week ago</li>
-<li><b><a href="https://github.com/worlds-best-team/cipher-io-trpc">worlds-best-team/cipher-io-trpc</a></b> - tRPC and WS server for Cipher.io - 2 weeks ago</li>
+<li><b><a href="https://github.com/worlds-best-team/cipher-io-react">worlds-best-team/cipher-io-react</a></b> - React client for Cipher.io - 2 weeks ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
@@ -38,6 +38,6 @@ Repository | Description | Last release tag | Publish time |
 - **[Designing Data-Intensive Applications - The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://literal.club/jayzsh/book/designing-data-intensive-applications-i9by0)** by _Martin Kleppmann_
 
 #### ⭐ Recent Stars
-- **[rust-lang/book](https://github.com/rust-lang/book)** - The Rust Programming Language (1 week ago)
+- **[rust-lang/book](https://github.com/rust-lang/book)** - The Rust Programming Language (2 weeks ago)
 - **[anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js)** - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:  (2 weeks ago)
 - **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (5 months ago)
