@@ -13,9 +13,9 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/jayzsh/express-typescript-eslint-prettier-template">jayzsh/express-typescript-eslint-prettier-template</a></b> - express-typescript-eslint-prettier-template - 3 days ago</li>
+<li><b><a href="https://github.com/jayzsh/express-typescript-eslint-prettier-template">jayzsh/express-typescript-eslint-prettier-template</a></b> - express-typescript-eslint-prettier-template - 4 days ago</li>
 <li><b><a href="https://github.com/jayzsh/rust-prolog">jayzsh/rust-prolog</a></b> - Entry level programs in Rust (I'm learning Rust) - 1 week ago</li>
-<li><b><a href="https://github.com/worlds-best-team/cipher-io-react">worlds-best-team/cipher-io-react</a></b> - React client for Cipher.io - 2 weeks ago</li>
+<li><b><a href="https://github.com/worlds-best-team/cipher-io-trpc">worlds-best-team/cipher-io-trpc</a></b> - tRPC and WS server for Cipher.io - 2 weeks ago</li>
 </ul>
 
 #### 👨‍💻 Repositories I created recently
