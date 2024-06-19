@@ -13,7 +13,7 @@ Repository | Description | Last release tag | Publish time |
 #### 📁 My recent contributions
 
 <ul>
-<li><b><a href="https://github.com/trinity-sh/Himalayan-Treks-Dashboard">trinity-sh/Himalayan-Treks-Dashboard</a></b> - Admin dashboard for the Himalayan Treks website - today</li>
+<li><b><a href="https://github.com/trinity-sh/Himalayan-Treks-Dashboard">trinity-sh/Himalayan-Treks-Dashboard</a></b> - Admin dashboard for the Himalayan Treks website - 1 day ago</li>
 <li><b><a href="https://github.com/jayzsh/express-typescript-eslint-prettier-template">jayzsh/express-typescript-eslint-prettier-template</a></b> - express-typescript-eslint-prettier-template - 1 week ago</li>
 <li><b><a href="https://github.com/jayzsh/rust-prolog">jayzsh/rust-prolog</a></b> - Entry level programs in Rust (I'm learning Rust) - 2 weeks ago</li>
 </ul>
