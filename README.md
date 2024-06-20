@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm **Jay**, an avid Pythonista and admirer of all things Computer Science.
+I'm **Jay**, an admirer of all things Computer Science.
 
 #### 🛠  My personal projects
 Repository | Description | Last release tag | Publish time |
@@ -11,9 +11,9 @@ Repository | Description | Last release tag | Publish time |
  [jayzsh/URLTag](https://github.com/jayzsh/URLTag) | Analytics API for the web; generate tracking links and monitor traffic | v0.5-beta.0 | 1 year ago
 
 #### 👨‍💻 Repositories I created recently
+- **[jayzsh/Chevrotain](https://github.com/jayzsh/Chevrotain)** - Light weight dictionary
 - **[jayzsh/express-typescript-eslint-prettier-template](https://github.com/jayzsh/express-typescript-eslint-prettier-template)** - express-typescript-eslint-prettier-template
 - **[jayzsh/rust-prolog](https://github.com/jayzsh/rust-prolog)** - Entry level programs in Rust (I'm learning Rust)
-- **[jayzsh/LaTeX-Resume](https://github.com/jayzsh/LaTeX-Resume)** - OC: Jake's resume template from Overleaf
 
 #### 🚀 Latest releases I've contributed to
 
