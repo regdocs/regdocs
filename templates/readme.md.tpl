@@ -10,14 +10,6 @@ Repository | Description | Last release tag | Publish time |
 {{with repo "jayzsh" "Charity"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
 {{with repo "jayzsh" "URLTag"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
 
-#### 📁 My recent contributions
-
-<ul>
-{{- range recentContributions 3}}
-<li><b><a href="{{.Repo.URL}}">{{.Repo.Name}}</a></b> - {{.Repo.Description}} - {{humanize .OccurredAt}}</li>
-{{- end}}
-</ul>
-
 #### 👨‍💻 Repositories I created recently
 
 {{- range recentRepos 3 }}
