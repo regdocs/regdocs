@@ -13,7 +13,7 @@ Repository | Description | Last release tag | Publish time |
 #### 👨‍💻 Repositories I created recently
 - **[jayzsh/Chevrotain](https://github.com/jayzsh/Chevrotain)** - Light weight dictionary
 - **[jayzsh/express-typescript-eslint-prettier-template](https://github.com/jayzsh/express-typescript-eslint-prettier-template)** - express-typescript-eslint-prettier-template
-- **[jayzsh/rust-prolog](https://github.com/jayzsh/rust-prolog)** - Entry level programs in Rust (I'm learning Rust)
+- **[jayzsh/rust-prolog](https://github.com/jayzsh/rust-prolog)** - Entry level programs in Rust
 
 #### 🚀 Latest releases I've contributed to
 
@@ -30,6 +30,6 @@ Repository | Description | Last release tag | Publish time |
 - **[Designing Data-Intensive Applications - The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://literal.club/jayzsh/book/designing-data-intensive-applications-i9by0)** by _Martin Kleppmann_
 
 #### ⭐ Recent Stars
-- **[rust-lang/book](https://github.com/rust-lang/book)** - The Rust Programming Language (4 weeks ago)
+- **[rust-lang/book](https://github.com/rust-lang/book)** - The Rust Programming Language (1 month ago)
 - **[anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js)** - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:  (1 month ago)
 - **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (5 months ago)
