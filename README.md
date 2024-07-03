@@ -12,7 +12,7 @@ Repository | Description | Last release tag | Publish time |
 
 #### 👨‍💻 Repositories I created recently
 - **[jayzsh/Chevrotain](https://github.com/jayzsh/Chevrotain)** - Light weight dictionary
-- **[jayzsh/express-typescript-eslint-prettier-template](https://github.com/jayzsh/express-typescript-eslint-prettier-template)** - express-typescript-eslint-prettier-template
+- **[jayzsh/express-typescript-eslint-prettier-template](https://github.com/jayzsh/express-typescript-eslint-prettier-template)** - What the repo name says
 - **[jayzsh/rust-prolog](https://github.com/jayzsh/rust-prolog)** - Entry level programs in Rust
 
 #### 🚀 Latest releases I've contributed to
