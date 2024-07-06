@@ -32,4 +32,4 @@ Repository | Description | Last release tag | Publish time |
 #### ⭐ Recent Stars
 - **[rust-lang/book](https://github.com/rust-lang/book)** - The Rust Programming Language (1 month ago)
 - **[anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js)** - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:  (1 month ago)
-- **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (5 months ago)
+- **[mirayatech/NinjaSketch](https://github.com/mirayatech/NinjaSketch)** - 🥷🏽 An Excalidraw clone built with React and TypeScript. (6 months ago)
