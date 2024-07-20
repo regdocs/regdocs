@@ -30,6 +30,6 @@ Repository | Description | Last release tag | Publish time |
 - **[Designing Data-Intensive Applications - The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://literal.club/jayzsh/book/designing-data-intensive-applications-i9by0)** by _Martin Kleppmann_
 
 #### ⭐ Recent Stars
-- **[GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript)** - Express + TypeScript + Boilerplate for Web / API App (2 days ago)
+- **[GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript)** - Express + TypeScript + Boilerplate for Web / API App (3 days ago)
 - **[rust-lang/book](https://github.com/rust-lang/book)** - The Rust Programming Language (1 month ago)
 - **[anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js)** - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:  (1 month ago)
