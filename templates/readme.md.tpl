@@ -22,12 +22,6 @@ Repository | Description | Last release tag | Publish time |
 - [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
 {{- end }}
 
-#### 📚 Books I'm reading
-
-{{- range literalClubCurrentlyReading 6 }}
-- **[{{ .Title }}{{ with .Subtitle }} - {{ . }}{{ end }}](https://literal.club/jayzsh/book/{{.Slug}})** by _{{ range $i, $a := .Authors }}{{ if gt $i 0 }}, {{ end }}{{ $a.Name }}{{ end }}_
-{{- end }}
-
 #### ⭐ Recent Stars
 
 {{- range recentStars 3 }}
