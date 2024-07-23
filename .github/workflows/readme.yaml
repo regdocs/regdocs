@@ -22,8 +22,6 @@ jobs:
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-          LITERAL_EMAIL: ${{ secrets.LITERAL_EMAIL }}
-          LITERAL_PASSWORD: ${{ secrets.LITERAL_PASSWORD }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -31,5 +29,5 @@ jobs:
           commit_message: 'docs: Update generated README'
           branch: dev
           commit_user_name: jayzsh
-          commit_user_email: jay.dnb@outlook.in
-          commit_author: jayzsh <jay.dnb@outlook.in>
+          commit_user_email: 55305804+jayzsh@users.noreply.github.com
+          commit_author: jayzsh <55305804+jayzsh@users.noreply.github.com>
