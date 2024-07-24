@@ -22,6 +22,6 @@ Repository | Description | Last release tag | Publish time |
 - [jayzsh/URLTag @ v0.5-beta.0](https://github.com/jayzsh/URLTag/releases/tag/v0.5-beta.0) (1 year ago)
 
 #### ⭐ Recent Stars
-- **[GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript)** - Express + TypeScript + Boilerplate for Web / API App (6 days ago)
+- **[GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript)** - Express + TypeScript + Boilerplate for Web / API App (1 week ago)
 - **[rust-lang/book](https://github.com/rust-lang/book)** - The Rust Programming Language (1 month ago)
 - **[anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js)** - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:  (1 month ago)
