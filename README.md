@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm **Jay**, an admirer of all things Computer Science.
+I'm **jayzsh**, an admirer of all things Computer Science.
 
 #### 🛠  My personal projects
 Repository | Description | Last release tag | Publish time |
