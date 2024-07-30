@@ -11,9 +11,9 @@ Repository | Description | Last release tag | Publish time |
  [jayzsh/URLTag](https://github.com/jayzsh/URLTag) | Analytics API for the web; generate tracking links and monitor traffic | v0.5-beta.0 | 1 year ago
 
 #### 👨‍💻 Repositories I created recently
+- **[jayzsh/WaveRTC](https://github.com/jayzsh/WaveRTC)** - P2P WebRTC video chat application written with tRPC, Next.js & LokiJS DB
 - **[jayzsh/Chevrotain](https://github.com/jayzsh/Chevrotain)** - Light weight dictionary
 - **[jayzsh/express-typescript-eslint-prettier-template](https://github.com/jayzsh/express-typescript-eslint-prettier-template)** - What the repo name says
-- **[jayzsh/rust-prolog](https://github.com/jayzsh/rust-prolog)** - Entry level programs in Rust
 
 #### 🚀 Latest releases I've contributed to
 
