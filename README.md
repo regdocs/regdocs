@@ -11,7 +11,7 @@ Repository | Description | Last release tag | Publish time |
  [jayzsh/URLTag](https://github.com/jayzsh/URLTag) | Analytics API for the web; generate tracking links and monitor traffic | v0.5-beta.0 | 1 year ago
 
 #### 👨‍💻 Repositories I created recently
-- **[jayzsh/WaveRTC](https://github.com/jayzsh/WaveRTC)** - P2P WebRTC video chat application written with tRPC, Next.js & LokiJS DB
+- **[jayzsh/WaveRTC](https://github.com/jayzsh/WaveRTC)** - P2P WebRTC video chat application written with tRPC, Next.js & LokiJS
 - **[jayzsh/Chevrotain](https://github.com/jayzsh/Chevrotain)** - Light weight dictionary
 - **[jayzsh/express-typescript-eslint-prettier-template](https://github.com/jayzsh/express-typescript-eslint-prettier-template)** - What the repo name says
 
@@ -22,6 +22,6 @@ Repository | Description | Last release tag | Publish time |
 - [jayzsh/URLTag @ v0.5-beta.0](https://github.com/jayzsh/URLTag/releases/tag/v0.5-beta.0) (1 year ago)
 
 #### ⭐ Recent Stars
-- **[GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript)** - Express + TypeScript + Boilerplate for Web / API App (1 week ago)
+- **[GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript)** - Express + TypeScript + Boilerplate for Web / API App (2 weeks ago)
 - **[rust-lang/book](https://github.com/rust-lang/book)** - The Rust Programming Language (2 months ago)
 - **[anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js)** - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:  (2 months ago)
