@@ -24,4 +24,4 @@ Repository | Description | Last release tag | Publish time |
 #### ⭐ Recent Stars
 - **[abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)** - ⚡ Dynamic Portfolio Website built with Next.js, Chakra UI and Contentful! (1 month ago)
 - **[GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript)** - Express + TypeScript + Boilerplate for Web / API App (2 months ago)
-- **[rust-lang/book](https://github.com/rust-lang/book)** - The Rust Programming Language (3 months ago)
+- **[rust-lang/book](https://github.com/rust-lang/book)** - The Rust Programming Language (4 months ago)
