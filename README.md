@@ -22,6 +22,6 @@ Repository | Description | Last release tag | Publish time |
 - [regdocs/URLTag @ v0.5-beta.0](https://github.com/regdocs/URLTag/releases/tag/v0.5-beta.0) (2 years ago)
 
 #### ⭐ Recent Stars
-- **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** - Contains Company Wise Questions sorted based on Frequency and all time (5 days ago)
-- **[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)** - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (3 weeks ago)
+- **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** - Contains Company Wise Questions sorted based on Frequency and all time (6 days ago)
+- **[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)** - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (4 weeks ago)
 - **[abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)** - ⚡ Dynamic Portfolio Website built with Next.js, Chakra UI and Contentful! (3 months ago)
