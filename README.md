@@ -5,7 +5,7 @@ I'm **Jay**, an admirer of all things Computer Science.
 #### 🛠  My personal projects
 Repository | Description | Last release tag | Publish time |
 -----------|-------------|------------------|--------------|
- [regdocs/TurboZAS](https://github.com/regdocs/TurboZAS) | Immersive and retro style apocalypse themed escape-room adventure game on the Windows 3.x terminal | v1.1-stable | 2 years ago
+ [regdocs/TurboZAS](https://github.com/regdocs/TurboZAS) | Immersive and retro style apocalypse themed escape-room adventure game on the Windows 3.x terminal | v1.1-stable | 3 years ago
  [regdocs/WNetNode](https://github.com/regdocs/WNetNode) | WNetNode is a lightweight and responsive English dictionary app using Princeton's WordNet lexical database and the Qt5 toolkit  | 1.0-alpha.0 | 2 years ago
  [regdocs/Charity](https://github.com/regdocs/Charity) | Versatile moderation and community management bot utilising modern Pythonic Discord API (PyPI v1.7.2) | 1.0.2-beta | 2 years ago
  [regdocs/URLTag](https://github.com/regdocs/URLTag) | Analytics API for the web; generate tracking links and monitor traffic | v0.5-beta.0 | 2 years ago
