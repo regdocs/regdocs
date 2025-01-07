@@ -18,7 +18,6 @@ Repository | Description | Last release tag | Publish time |
 #### 🚀 Latest releases I've contributed to
 
 
-- [regdocs/WNetNode @ 1.0-alpha.0](https://github.com/regdocs/WNetNode/releases/tag/1.0-alpha.0) (2 years ago)
 
 #### ⭐ Recent Stars
 - **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** - Contains Company Wise Questions sorted based on Frequency and all time (1 month ago)
