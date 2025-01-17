@@ -20,6 +20,6 @@ Repository | Description | Last release tag | Publish time |
 
 
 #### ⭐ Recent Stars
-- **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** - Contains Company Wise Questions sorted based on Frequency and all time (1 month ago)
+- **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** - Contains Company Wise Questions sorted based on Frequency and all time (2 months ago)
 - **[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)** - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (2 months ago)
-- **[abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)** - ⚡ Dynamic Portfolio Website built with Next.js, Chakra UI and Contentful! (4 months ago)
+- **[abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)** - ⚡ Dynamic Portfolio Website built with Next.js, Chakra UI and Contentful! (5 months ago)
