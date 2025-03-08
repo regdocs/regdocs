@@ -20,6 +20,6 @@ Repository | Description | Last release tag | Publish time |
 
 
 #### ⭐ Recent Stars
+- **[GetSoloTech/solo-server](https://github.com/GetSoloTech/solo-server)** - Platform for Hardware Aware Inference (today)
 - **[agrawal-d/cph](https://github.com/agrawal-d/cph)** - Makes judging, compiling, and downloading problems for competitive programming easy. (3 weeks ago)
 - **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** - Contains Company Wise Questions sorted based on Frequency and all time (3 months ago)
-- **[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)** - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (4 months ago)
