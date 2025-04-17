@@ -22,4 +22,4 @@ Repository | Description | Last release tag | Publish time |
 #### ⭐ Recent Stars
 - **[GetSoloTech/solo-server](https://github.com/GetSoloTech/solo-server)** - Server for Physical AI Inference (1 month ago)
 - **[agrawal-d/cph](https://github.com/agrawal-d/cph)** - Makes judging, compiling, and downloading problems for competitive programming easy. (2 months ago)
-- **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** - Contains Company Wise Questions sorted based on Frequency and all time (4 months ago)
+- **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** - Contains Company Wise Questions sorted based on Frequency and all time (5 months ago)
