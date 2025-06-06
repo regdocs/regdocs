@@ -21,6 +21,6 @@ Repository | Description | Last release tag | Publish time |
 - [regdocs/URLTag @ v0.5-beta.0](https://github.com/regdocs/URLTag/releases/tag/v0.5-beta.0) (2 years ago)
 
 #### ⭐ Recent Stars
-- **[GetSoloTech/solo-server](https://github.com/GetSoloTech/solo-server)** - Server for Physical AI Inference (2 months ago)
+- **[GetSoloTech/solo-server](https://github.com/GetSoloTech/solo-server)** - Server for Physical AI Inference (3 months ago)
 - **[agrawal-d/cph](https://github.com/agrawal-d/cph)** - Makes judging, compiling, and downloading problems for competitive programming easy. (3 months ago)
 - **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** - Contains Company Wise Questions sorted based on Frequency and all time (6 months ago)
