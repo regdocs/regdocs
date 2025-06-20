@@ -21,6 +21,6 @@ Repository | Description | Last release tag | Publish time |
 - [regdocs/URLTag @ v0.5-beta.0](https://github.com/regdocs/URLTag/releases/tag/v0.5-beta.0) (2 years ago)
 
 #### ⭐ Recent Stars
-- **[regdocs/Nbody-Simulation](https://github.com/regdocs/Nbody-Simulation)** - Simulation of N-bodies in conservative field force (3 days ago)
+- **[regdocs/Nbody-Simulation](https://github.com/regdocs/Nbody-Simulation)** - Simulation of N-bodies in conservative field force (4 days ago)
 - **[GetSoloTech/solo-server](https://github.com/GetSoloTech/solo-server)** - Server for Physical AI Inference (3 months ago)
 - **[agrawal-d/cph](https://github.com/agrawal-d/cph)** - Makes judging, compiling, and downloading problems for competitive programming easy. (4 months ago)
