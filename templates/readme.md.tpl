@@ -2,14 +2,6 @@
 
 I'm **Jay**, an admirer of all things Computer Science.
 
-#### 🛠  My personal projects
-Repository | Description | Last release tag | Publish time |
------------|-------------|------------------|--------------|
-{{with repo "jayzsh" "TurboZAS"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
-{{with repo "jayzsh" "Acorn"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
-{{with repo "jayzsh" "Charity"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
-{{with repo "jayzsh" "URLTag"}} [{{.Name}}]({{.URL}}) | {{.Description}} | {{.LastRelease.TagName}} | {{humanize .LastRelease.PublishedAt}}{{end}}
-
 #### 👨‍💻 Repositories I created recently
 
 {{- range recentRepos 3 }}
