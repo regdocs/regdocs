@@ -14,5 +14,5 @@ I'm **Jay**, an admirer of all things Computer Science.
 
 #### ⭐ Recent Stars
 - **[xinrong-meng/knowledge-sharing](https://github.com/xinrong-meng/knowledge-sharing)** - Hub for curated insights and resources on software systems and technologies (3 weeks ago)
-- **[vx6Fid/Git-go](https://github.com/vx6Fid/Git-go)** - A simple, Git-like version control system written in Go — built for learning and exploring the internals of Git. (3 weeks ago)
+- **[vx6Fid/Git-go](https://github.com/vx6Fid/Git-go)** - A simple, Git-like version control system written in Go — built for learning and exploring the internals of Git. (4 weeks ago)
 - **[regdocs/Nbody-Simulation](https://github.com/regdocs/Nbody-Simulation)** - Simulation of N-bodies in a conservative force field (1 month ago)
