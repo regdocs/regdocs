@@ -4,7 +4,7 @@ I'm **Jay**, an admirer of all things Computer Science.
 
 #### 👨‍💻 Repositories I created recently
 
-{{- range recentRepos 5 }}
+{{- range recentRepos 3 }}
 - **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
@@ -16,6 +16,6 @@ I'm **Jay**, an admirer of all things Computer Science.
 
 #### ⭐ Recent Stars
 
-{{- range recentStars 5 }}
+{{- range recentStars 3 }}
 - **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
 {{- end }}
