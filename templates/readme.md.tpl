@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm **Jay**, an admirer of all things Computer Science.
+I'm **Jayanta**, an admirer of all things Computer Science.
 
 #### 👨‍💻 Repositories I created recently
 
