@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm **Jay**, an admirer of all things Computer Science.
+I'm **Jayanta**, an admirer of all things Computer Science.
 
 #### 👨‍💻 Repositories I created recently
 - **[regdocs/Nbody-Simulation](https://github.com/regdocs/Nbody-Simulation)** - Simulation of N-bodies in a conservative force field
