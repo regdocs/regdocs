@@ -14,6 +14,6 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 - [frappe/press @ v0.7.0](https://github.com/frappe/press/releases/tag/v0.7.0) (4 years ago)
 
 #### ⭐ Recent Stars
-- **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (2 days ago)
+- **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (3 days ago)
 - **[frappe/erpnext](https://github.com/frappe/erpnext)** - Free and Open Source Enterprise Resource Planning (ERP) (2 weeks ago)
 - **[frappe/press](https://github.com/frappe/press)** - Full service cloud hosting for the Frappe stack - powers Frappe Cloud (3 weeks ago)
