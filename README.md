@@ -14,6 +14,6 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 - [frappe/press @ v0.7.0](https://github.com/frappe/press/releases/tag/v0.7.0) (4 years ago)
 
 #### ⭐ Recent Stars
-- **[the-bokya/neko](https://github.com/the-bokya/neko)** - Agent for creating and managing VMs on bare metal servers. (today)
-- **[tanmoysrt/vessel](https://github.com/tanmoysrt/vessel)** - ⛵ Toolkit for building container orchestration system (today)
+- **[the-bokya/neko](https://github.com/the-bokya/neko)** - Agent for creating and managing VMs on bare metal servers. (1 day ago)
+- **[tanmoysrt/vessel](https://github.com/tanmoysrt/vessel)** - ⛵ Toolkit for building container orchestration system (1 day ago)
 - **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (1 week ago)
