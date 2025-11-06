@@ -14,6 +14,6 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 - [frappe/press @ v0.7.0](https://github.com/frappe/press/releases/tag/v0.7.0) (4 years ago)
 
 #### ⭐ Recent Stars
-- **[pqoqubbw/icons](https://github.com/pqoqubbw/icons)** - beautifully crafted animated icons (6 days ago)
-- **[the-bokya/neko](https://github.com/the-bokya/neko)** - Agent for creating and managing VMs on bare metal servers. (1 week ago)
-- **[tanmoysrt/vessel](https://github.com/tanmoysrt/vessel)** - ⛵ Toolkit for building container orchestration system (1 week ago)
+- **[pqoqubbw/icons](https://github.com/pqoqubbw/icons)** - beautifully crafted animated icons (1 week ago)
+- **[the-bokya/neko](https://github.com/the-bokya/neko)** - Agent for creating and managing VMs on bare metal servers. (2 weeks ago)
+- **[tanmoysrt/vessel](https://github.com/tanmoysrt/vessel)** - ⛵ Toolkit for building container orchestration system (2 weeks ago)
