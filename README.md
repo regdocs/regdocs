@@ -16,4 +16,4 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⭐ Recent Stars
 - **[hexed0ut/J-OS](https://github.com/hexed0ut/J-OS)** - A minimal toy operating system built from scratch to learn low-level systems, bootloaders, memory management, and hardware interaction (1 week ago)
 - **[pqoqubbw/icons](https://github.com/pqoqubbw/icons)** - beautifully crafted animated icons (3 weeks ago)
-- **[the-bokya/neko](https://github.com/the-bokya/neko)** - Agent for creating and managing VMs on bare metal servers. (4 weeks ago)
+- **[the-bokya/neko](https://github.com/the-bokya/neko)** - Agent for creating and managing VMs on bare metal servers. (1 month ago)
