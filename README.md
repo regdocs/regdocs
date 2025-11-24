@@ -14,6 +14,6 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 - [frappe/press @ v0.7.0](https://github.com/frappe/press/releases/tag/v0.7.0) (4 years ago)
 
 #### ⭐ Recent Stars
-- **[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (today)
+- **[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (1 day ago)
 - **[hexed0ut/J-OS](https://github.com/hexed0ut/J-OS)** - A minimal toy operating system built from scratch to learn low-level systems, bootloaders, memory management, and hardware interaction (1 week ago)
 - **[pqoqubbw/icons](https://github.com/pqoqubbw/icons)** - beautifully crafted animated icons (3 weeks ago)
