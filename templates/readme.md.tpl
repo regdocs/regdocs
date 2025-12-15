@@ -20,8 +20,8 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 - **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
 {{- end }}
 
-#### ⤵️ Work
+#### ⤵️ Recent work
 
 {{ range recentPullRequests 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - **[{{ .Title }}]({{ .URL }})** - {{ humanize .CreatedAt }} - {{ .State }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) ➔ **[{{ .Title }}]({{ .URL }})** - {{ .State }} ({{ humanize .CreatedAt }})
 {{- end }}
