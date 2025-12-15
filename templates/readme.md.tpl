@@ -23,5 +23,5 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⤵️ Recent work
 
 {{ range recentPullRequests 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) ➔ **[{{ .Title }}]({{ .URL }})** - {{ .State }} ({{ humanize .CreatedAt }})
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) ➔ **[{{ .Title }}]({{ .URL }})** - {{ humanize .CreatedAt }}
 {{- end }}
