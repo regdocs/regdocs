@@ -28,6 +28,6 @@ jobs:
         with:
           commit_message: 'docs: Update generated README'
           branch: dev
-          commit_user_name: jayzsh
-          commit_user_email: 55305804+jayzsh@users.noreply.github.com
-          commit_author: jayzsh <55305804+jayzsh@users.noreply.github.com>
+          commit_user_name: regdocs
+          commit_user_email: 55305804+regdocs@users.noreply.github.com
+          commit_author: regdocs <55305804+regdocs@users.noreply.github.com>
