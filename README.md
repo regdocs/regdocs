@@ -22,11 +22,11 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 - **[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (3 weeks ago)
 - **[hexed0ut/J-OS](https://github.com/hexed0ut/J-OS)** - A minimal toy operating system built from scratch to learn low-level systems, bootloaders, memory management, and hardware interaction (1 month ago)
 
-#### ⤵️ Work
+#### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) - **[fix(database-server-actions): Fix dialogs not opening up](https://github.com/frappe/press/pull/4199)** - 3 days ago - MERGED
-- [frappe/press](https://github.com/frappe/press) - **[fix(bench-deploy): Fix secondary deploy missing checkboxes](https://github.com/frappe/press/pull/4177)** - 4 days ago - MERGED
-- [frappe/press](https://github.com/frappe/press) - **[feat(playwright): Add codecov coverage report](https://github.com/frappe/press/pull/4144)** - 6 days ago - MERGED
-- [frappe/press](https://github.com/frappe/press) - **[feat(site-analytics): Add datazoom to chart](https://github.com/frappe/press/pull/4103)** - 1 week ago - OPEN
-- [frappe/press](https://github.com/frappe/press) - **[feat(devtools): Make vue devtools optional by default](https://github.com/frappe/press/pull/4096)** - 1 week ago - MERGED
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(database-server-actions): Fix dialogs not opening up](https://github.com/frappe/press/pull/4199)** - MERGED (3 days ago)
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(bench-deploy): Fix secondary deploy missing checkboxes](https://github.com/frappe/press/pull/4177)** - MERGED (4 days ago)
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(playwright): Add codecov coverage report](https://github.com/frappe/press/pull/4144)** - MERGED (6 days ago)
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site-analytics): Add datazoom to chart](https://github.com/frappe/press/pull/4103)** - OPEN (1 week ago)
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(devtools): Make vue devtools optional by default](https://github.com/frappe/press/pull/4096)** - MERGED (1 week ago)
