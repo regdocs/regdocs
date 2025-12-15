@@ -22,7 +22,7 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 - **[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (3 weeks ago)
 - **[hexed0ut/J-OS](https://github.com/hexed0ut/J-OS)** - A minimal toy operating system built from scratch to learn low-level systems, bootloaders, memory management, and hardware interaction (1 month ago)
 
-#### ⤵️ My work
+#### ⤵️ Work
 
 
 - [frappe/press](https://github.com/frappe/press) - **[fix(database-server-actions): Fix dialogs not opening up](https://github.com/frappe/press/pull/4199)** - 3 days ago - MERGED
