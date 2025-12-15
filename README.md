@@ -30,26 +30,16 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 - **[hexed0ut/J-OS](https://github.com/hexed0ut/J-OS)** - A minimal toy operating system built from scratch to learn low-level systems, bootloaders, memory management, and hardware interaction (1 month ago)
 
 
-#### ⤵️ Recent pull requests
+#### ⤵️ My work
 
 
-- [frappe/press](https://github.com/frappe/press) - **[fix(database-server-actions): Fix dialogs not opening up](https://github.com/frappe/press/pull/4199) - 3 days ago - MERGED
+- [frappe/press](https://github.com/frappe/press) - **[fix(database-server-actions): Fix dialogs not opening up](https://github.com/frappe/press/pull/4199)** - 3 days ago - MERGED
 
-- [frappe/press](https://github.com/frappe/press) - **[fix(bench-deploy): Fix secondary deploy missing checkboxes](https://github.com/frappe/press/pull/4177) - 4 days ago - MERGED
+- [frappe/press](https://github.com/frappe/press) - **[fix(bench-deploy): Fix secondary deploy missing checkboxes](https://github.com/frappe/press/pull/4177)** - 4 days ago - MERGED
 
-- [frappe/press](https://github.com/frappe/press) - **[feat(playwright): Add codecov coverage report](https://github.com/frappe/press/pull/4144) - 6 days ago - MERGED
+- [frappe/press](https://github.com/frappe/press) - **[feat(playwright): Add codecov coverage report](https://github.com/frappe/press/pull/4144)** - 6 days ago - MERGED
 
-- [frappe/press](https://github.com/frappe/press) - **[feat(site-analytics): Add datazoom to chart](https://github.com/frappe/press/pull/4103) - 1 week ago - OPEN
+- [frappe/press](https://github.com/frappe/press) - **[feat(site-analytics): Add datazoom to chart](https://github.com/frappe/press/pull/4103)** - 1 week ago - OPEN
 
-- [frappe/press](https://github.com/frappe/press) - **[feat(devtools): Make vue devtools optional by default](https://github.com/frappe/press/pull/4096) - 1 week ago - MERGED
-
-- [frappe/press](https://github.com/frappe/press) - **[Add @regdocs as owner for dashboard directory](https://github.com/frappe/press/pull/4007) - 3 weeks ago - MERGED
-
-- [frappe/press](https://github.com/frappe/press) - **[metrics(dashboard): Remove all ignored errors and error types](https://github.com/frappe/press/pull/3987) - 3 weeks ago - MERGED
-
-- [frappe/press](https://github.com/frappe/press) - **[feat(playwright): Organise tests, add session storage](https://github.com/frappe/press/pull/3972) - 3 weeks ago - MERGED
-
-- [frappe/press](https://github.com/frappe/press) - **[feat(playwright): Organise tests, add session storage](https://github.com/frappe/press/pull/3970) - 3 weeks ago - CLOSED
-
-- [frappe/press](https://github.com/frappe/press) - **[Revert "feat(dashboard-banners): Add cluster scope to banners"](https://github.com/frappe/press/pull/3876) - 1 month ago - MERGED
+- [frappe/press](https://github.com/frappe/press) - **[feat(devtools): Make vue devtools optional by default](https://github.com/frappe/press/pull/4096)** - 1 week ago - MERGED
 
