@@ -18,7 +18,7 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⭐ Recent Stars
 
 
-- **[systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)** - Newsletter to help busy software engineers become good at system design 👇 (3 weeks ago)
+- **[systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)** - Newsletter to help busy software engineers become good at system design 👇 (4 weeks ago)
 - **[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (1 month ago)
 - **[hexed0ut/J-OS](https://github.com/hexed0ut/J-OS)** - A minimal toy operating system built from scratch to learn low-level systems, bootloaders, memory management, and hardware interaction (1 month ago)
 
