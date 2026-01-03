@@ -29,4 +29,4 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 - [frappe/press](https://github.com/frappe/press) ➔ **[fix(database-server-actions): Fix dialogs not opening up](https://github.com/frappe/press/pull/4199)** - 3 weeks ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[fix(bench-deploy): Fix secondary deploy missing checkboxes](https://github.com/frappe/press/pull/4177)** - 3 weeks ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[feat(playwright): Add codecov coverage report](https://github.com/frappe/press/pull/4144)** - 3 weeks ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site-analytics): Add datazoom to chart](https://github.com/frappe/press/pull/4103)** - 4 weeks ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site-analytics): Add datazoom to chart](https://github.com/frappe/press/pull/4103)** - 1 month ago
