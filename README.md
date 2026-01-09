@@ -25,8 +25,8 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Migrate Headers > remove z-10](https://github.com/frappe/press/pull/4427)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Migrate FormControl.combobox implementations](https://github.com/frappe/press/pull/4425)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Migrate FormControl combobox and form.Button](https://github.com/frappe/press/pull/4415)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(dependency): Migrate to frappe-ui 0.1.238](https://github.com/frappe/press/pull/4270)** - 3 weeks ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(database-server-actions): Fix dialogs not opening up](https://github.com/frappe/press/pull/4199)** - 3 weeks ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Rearrange component stacking context](https://github.com/frappe/press/pull/4467)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Resolve z-index overlap for Header](https://github.com/frappe/press/pull/4460)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Migrate Headers > remove z-10](https://github.com/frappe/press/pull/4427)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Migrate FormControl.combobox implementations](https://github.com/frappe/press/pull/4425)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Migrate FormControl combobox and form.Button](https://github.com/frappe/press/pull/4415)** - 2 days ago
