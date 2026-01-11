@@ -25,8 +25,8 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Rearrange component stacking context](https://github.com/frappe/press/pull/4467)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Resolve z-index overlap for Header](https://github.com/frappe/press/pull/4460)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Migrate Headers > remove z-10](https://github.com/frappe/press/pull/4427)** - 2 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Migrate FormControl.combobox implementations](https://github.com/frappe/press/pull/4425)** - 2 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Migrate FormControl combobox and form.Button](https://github.com/frappe/press/pull/4415)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(bench-deploy-version): Add app release query in CommitChooser](https://github.com/frappe/press/pull/4506)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Rearrange component stacking context](https://github.com/frappe/press/pull/4467)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Resolve z-index overlap for Header](https://github.com/frappe/press/pull/4460)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Migrate Headers > remove z-10](https://github.com/frappe/press/pull/4427)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Migrate FormControl.combobox implementations](https://github.com/frappe/press/pull/4425)** - 3 days ago
