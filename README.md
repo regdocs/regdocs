@@ -19,14 +19,14 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 
 
 - **[systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)** - If you want to become good at system design, join this newsletter now 👇 (1 month ago)
-- **[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (1 month ago)
+- **[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 months ago)
 - **[hexed0ut/J-OS](https://github.com/hexed0ut/J-OS)** - A minimal toy operating system built from scratch to learn low-level systems, bootloaders, memory management, and hardware interaction (2 months ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Remove dependency on frappe-ui Dropdown for sanity](https://github.com/frappe/press/pull/4679)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Resolve z-index overlap for Header](https://github.com/frappe/press/pull/4614)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Rearrange component stacking context to prevent over…](https://github.com/frappe/press/pull/4613)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(erpnext-signup): Add share details consent checkbox](https://github.com/frappe/press/pull/4611)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Fix component data binding](https://github.com/frappe/press/pull/4589)** - 1 week ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(github): Add ability to validate private branches](https://github.com/frappe/press/pull/4693)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Remove dependency on frappe-ui Dropdown for sanity](https://github.com/frappe/press/pull/4679)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Resolve z-index overlap for Header](https://github.com/frappe/press/pull/4614)** - 6 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Rearrange component stacking context to prevent over…](https://github.com/frappe/press/pull/4613)** - 6 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(erpnext-signup): Add share details consent checkbox](https://github.com/frappe/press/pull/4611)** - 6 days ago
