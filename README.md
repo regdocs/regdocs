@@ -25,8 +25,8 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(github): Add ability to validate private branches](https://github.com/frappe/press/pull/4693)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Remove dependency on frappe-ui Dropdown for sanity](https://github.com/frappe/press/pull/4679)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Resolve z-index overlap for Header](https://github.com/frappe/press/pull/4614)** - 6 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dependency): Rearrange component stacking context to prevent over…](https://github.com/frappe/press/pull/4613)** - 6 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(erpnext-signup): Add share details consent checkbox](https://github.com/frappe/press/pull/4611)** - 6 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Change last 24 hours label to last day](https://github.com/frappe/press/pull/4753)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(analytics): Fix call syntax to get_additional_duration_reports](https://github.com/frappe/press/pull/4751)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Fix call syntax to get_nginx_request_by_](https://github.com/frappe/press/pull/4749)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Fix call syntax to get_usage](https://github.com/frappe/press/pull/4745)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Convert timestamp to ms before serialising](https://github.com/frappe/press/pull/4743)** - today
