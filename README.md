@@ -25,8 +25,8 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Change last 24 hours label to last day](https://github.com/frappe/press/pull/4753)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(analytics): Fix call syntax to get_additional_duration_reports](https://github.com/frappe/press/pull/4751)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Fix call syntax to get_nginx_request_by_](https://github.com/frappe/press/pull/4749)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Fix call syntax to get_usage](https://github.com/frappe/press/pull/4745)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Convert timestamp to ms before serialising](https://github.com/frappe/press/pull/4743)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(server-analytics): Add missing start, end arguments](https://github.com/frappe/press/pull/4763)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Change last 24 hours label to last day](https://github.com/frappe/press/pull/4753)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(analytics): Fix call syntax to get_additional_duration_reports](https://github.com/frappe/press/pull/4751)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Fix call syntax to get_nginx_request_by_](https://github.com/frappe/press/pull/4749)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Fix call syntax to get_usage](https://github.com/frappe/press/pull/4745)** - 1 day ago
