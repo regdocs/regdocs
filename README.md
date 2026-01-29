@@ -18,15 +18,15 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⭐ Recent Stars
 
 
-- **[systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)** - If you want to become good at system design, join this newsletter now 👇 (1 month ago)
+- **[systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)** - If you want to become good at system design, join this newsletter now 👇 (2 months ago)
 - **[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 months ago)
 - **[hexed0ut/J-OS](https://github.com/hexed0ut/J-OS)** - A minimal toy operating system built from scratch to learn low-level systems, bootloaders, memory management, and hardware interaction (2 months ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(add-site-tags): Replace autocomplete with new/existing tag select](https://github.com/frappe/press/pull/4817)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Change last 24 hours label to last day](https://github.com/frappe/press/pull/4767)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[Revert "fix(site-analytics): Change last 24 hours label to last day (backport #4753)"](https://github.com/frappe/press/pull/4766)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(server-analytics): Add missing start, end arguments](https://github.com/frappe/press/pull/4763)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Change last 24 hours label to last day](https://github.com/frappe/press/pull/4753)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(add-site-tags): Replace autocomplete with new/existing tag select](https://github.com/frappe/press/pull/4817)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Change last 24 hours label to last day](https://github.com/frappe/press/pull/4767)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[Revert "fix(site-analytics): Change last 24 hours label to last day (backport #4753)"](https://github.com/frappe/press/pull/4766)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(server-analytics): Add missing start, end arguments](https://github.com/frappe/press/pull/4763)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Change last 24 hours label to last day](https://github.com/frappe/press/pull/4753)** - 6 days ago
