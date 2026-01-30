@@ -25,8 +25,8 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(add-site-tags): Replace autocomplete with new/existing tag select](https://github.com/frappe/press/pull/4817)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Change last 24 hours label to last day](https://github.com/frappe/press/pull/4767)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[Revert "fix(site-analytics): Change last 24 hours label to last day (backport #4753)"](https://github.com/frappe/press/pull/4766)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(server-analytics): Add missing start, end arguments](https://github.com/frappe/press/pull/4763)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Change last 24 hours label to last day](https://github.com/frappe/press/pull/4753)** - 6 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): ui fixes](https://github.com/frappe/press/pull/4842)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(role-permissions): Add missing allow_apps checkbox](https://github.com/frappe/press/pull/4839)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(add-site-tags): Replace autocomplete with new/existing tag select](https://github.com/frappe/press/pull/4817)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Change last 24 hours label to last day](https://github.com/frappe/press/pull/4767)** - 6 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[Revert "fix(site-analytics): Change last 24 hours label to last day (backport #4753)"](https://github.com/frappe/press/pull/4766)** - 6 days ago
