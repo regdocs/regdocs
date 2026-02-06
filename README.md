@@ -25,8 +25,8 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(list-view): Optimise layout](https://github.com/frappe/press/pull/4950)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(marketplace-version-select): Add custom branch support](https://github.com/frappe/press/pull/4938)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard-banners): Revert merge errors](https://github.com/frappe/press/pull/4922)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard-ui): February 2026 Sprint week-1](https://github.com/frappe/press/pull/4896)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Bring duration toolbar to the front](https://github.com/frappe/press/pull/4892)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[Revert "fix(dashboard-ui): February 2026 Sprint week-1 (2) (manual-backport #4959)"](https://github.com/frappe/press/pull/4984)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard-ui): February 2026 Sprint week-1 (2) (manual-backport #4959)](https://github.com/frappe/press/pull/4983)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard-ui): February 2026 Sprint week-1 (2)](https://github.com/frappe/press/pull/4959)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(list-view): Optimise layout](https://github.com/frappe/press/pull/4950)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(marketplace-version-select): Add custom branch support](https://github.com/frappe/press/pull/4938)** - 1 day ago
