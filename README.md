@@ -25,8 +25,8 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard-ui): February 2026 Sprint week-3 (1)](https://github.com/frappe/press/pull/5120)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard-ui): February 2026 Sprint week-2 (5)](https://github.com/frappe/press/pull/5080)** - 1 week ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard-ui): February 2026 Sprint week-2 (4)](https://github.com/frappe/press/pull/5077)** - 1 week ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(add-github-app): Add support for custom branch](https://github.com/frappe/press/pull/5075)** - 1 week ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(update-release-group): Fix typo](https://github.com/frappe/press/pull/5059)** - 1 week ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(github-app-select): Fix gh re-authorise flow](https://github.com/frappe/press/pull/5274)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[perf(uptime-chart): Fix scroll into view](https://github.com/frappe/press/pull/5272)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(analytics): Fix uptime bucket size](https://github.com/frappe/press/pull/5268)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(analytics-charts): Remove h-44 class](https://github.com/frappe/press/pull/5258)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(mergify): Fix merge conflicts](https://github.com/frappe/press/pull/5255)** - today
