@@ -25,8 +25,8 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(github-app-select): Fix gh re-authorise flow](https://github.com/frappe/press/pull/5274)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[perf(uptime-chart): Fix scroll into view](https://github.com/frappe/press/pull/5272)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(analytics): Fix uptime bucket size](https://github.com/frappe/press/pull/5268)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(analytics-charts): Remove h-44 class](https://github.com/frappe/press/pull/5258)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(mergify): Fix merge conflicts](https://github.com/frappe/press/pull/5255)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench-group): Rename bench group to benches [experimental]](https://github.com/frappe/press/pull/5286)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(uptime-chart): Increase max chunk size to 60](https://github.com/frappe/press/pull/5285)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(github-app-select): Fix gh re-authorise flow](https://github.com/frappe/press/pull/5274)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[perf(uptime-chart): Fix scroll into view](https://github.com/frappe/press/pull/5272)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(analytics): Fix uptime bucket size](https://github.com/frappe/press/pull/5268)** - 1 day ago
