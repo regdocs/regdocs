@@ -18,15 +18,15 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⭐ Recent Stars
 
 
+- **[frappe/agent](https://github.com/frappe/agent)** - Works with https://github.com/frappe/press (today)
 - **[systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)** - If you want to become good at system design, join this newsletter now 👇 (3 months ago)
 - **[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (3 months ago)
-- **[hexed0ut/J-OS](https://github.com/hexed0ut/J-OS)** - A minimal toy operating system built from scratch to learn low-level systems, bootloaders, memory management, and hardware interaction (3 months ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(release-group): Whitelist based on erroneous marketplace app source](https://github.com/frappe/press/pull/5365)** - 2 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(login): Allow system users to impersonate disabled teams](https://github.com/frappe/press/pull/5320)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench-group): Rename bench group to benches [2] [experimental]](https://github.com/frappe/press/pull/5295)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench-group): Rename bench group to benches [experimental]](https://github.com/frappe/press/pull/5286)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(uptime-chart): Increase max chunk size to 60](https://github.com/frappe/press/pull/5285)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(release-group): Whitelist based on erroneous marketplace app source](https://github.com/frappe/press/pull/5365)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(login): Allow system users to impersonate disabled teams](https://github.com/frappe/press/pull/5320)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench-group): Rename bench group to benches [2] [experimental]](https://github.com/frappe/press/pull/5295)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench-group): Rename bench group to benches [experimental]](https://github.com/frappe/press/pull/5286)** - 6 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(uptime-chart): Increase max chunk size to 60](https://github.com/frappe/press/pull/5285)** - 6 days ago
