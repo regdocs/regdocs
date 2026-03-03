@@ -18,15 +18,15 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⭐ Recent Stars
 
 
-- **[frappe/agent](https://github.com/frappe/agent)** - Works with https://github.com/frappe/press (today)
+- **[frappe/agent](https://github.com/frappe/agent)** - Works with https://github.com/frappe/press (1 day ago)
 - **[systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)** - If you want to become good at system design, join this newsletter now 👇 (3 months ago)
 - **[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (3 months ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(release-group): Whitelist based on erroneous marketplace app source](https://github.com/frappe/press/pull/5365)** - 3 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(login): Allow system users to impersonate disabled teams](https://github.com/frappe/press/pull/5320)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench-group): Rename bench group to benches [2] [experimental]](https://github.com/frappe/press/pull/5295)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench-group): Rename bench group to benches [experimental]](https://github.com/frappe/press/pull/5286)** - 6 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(uptime-chart): Increase max chunk size to 60](https://github.com/frappe/press/pull/5285)** - 6 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(release-group): Fix older releases not getting selected](https://github.com/frappe/press/pull/5406)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(release-group): Prevent empty IN array clause in SQL](https://github.com/frappe/press/pull/5400)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(release-group): Prevent empty IN array clause in SQL](https://github.com/frappe/press/pull/5398)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(release-group): Whitelist based on erroneous marketplace app source](https://github.com/frappe/press/pull/5365)** - 4 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(login): Allow system users to impersonate disabled teams](https://github.com/frappe/press/pull/5320)** - 6 days ago
