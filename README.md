@@ -12,21 +12,21 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [regdocs/URLTag @ v0.5-beta.0](https://github.com/regdocs/URLTag/releases/tag/v0.5-beta.0) (2 years ago)
+- [regdocs/URLTag @ v0.5-beta.0](https://github.com/regdocs/URLTag/releases/tag/v0.5-beta.0) (3 years ago)
 - [frappe/press @ v0.7.0](https://github.com/frappe/press/releases/tag/v0.7.0) (4 years ago)
 
 #### ⭐ Recent Stars
 
 
-- **[frappe/agent](https://github.com/frappe/agent)** - Works with https://github.com/frappe/press (6 days ago)
+- **[frappe/agent](https://github.com/frappe/agent)** - Works with https://github.com/frappe/press (1 week ago)
 - **[systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)** - If you want to become good at system design, join this newsletter now 👇 (3 months ago)
 - **[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (3 months ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(date-time-control): Add missing top margin for date](https://github.com/frappe/press/pull/5504)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(impersonate-icon): Add flex-row to parent container](https://github.com/frappe/press/pull/5489)** - 2 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(uptime-chart): Set max-width to 1rem](https://github.com/frappe/press/pull/5421)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(uptime-chart): Set max-width to 1rem](https://github.com/frappe/press/pull/5420)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(release-group): Fix older releases not getting selected](https://github.com/frappe/press/pull/5406)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(login-as-admin): Use host name instead of site name](https://github.com/frappe/press/pull/5592)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(date-time-control): Add missing top margin for date](https://github.com/frappe/press/pull/5504)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(impersonate-icon): Add flex-row to parent container](https://github.com/frappe/press/pull/5489)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(uptime-chart): Set max-width to 1rem](https://github.com/frappe/press/pull/5421)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(uptime-chart): Set max-width to 1rem](https://github.com/frappe/press/pull/5420)** - 5 days ago
