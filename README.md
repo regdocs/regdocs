@@ -12,9 +12,9 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/helpdesk @ v1.22.1](https://github.com/frappe/helpdesk/releases/tag/v1.22.1) (3 days ago)
-- [frappe/frappe @ v15.103.3](https://github.com/frappe/frappe/releases/tag/v15.103.3) (3 days ago)
-- [frappe/press @ v0.8.0](https://github.com/frappe/press/releases/tag/v0.8.0) (4 days ago)
+- [frappe/helpdesk @ v1.22.1](https://github.com/frappe/helpdesk/releases/tag/v1.22.1) (4 days ago)
+- [frappe/frappe @ v15.103.3](https://github.com/frappe/frappe/releases/tag/v15.103.3) (4 days ago)
+- [frappe/press @ v0.8.0](https://github.com/frappe/press/releases/tag/v0.8.0) (5 days ago)
 
 #### ⭐ Recent Stars
 
@@ -26,8 +26,8 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(readme): Fix Frappe Cloud logo](https://github.com/frappe/press/pull/5980)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(actions-tab): Add query param action trigger](https://github.com/frappe/press/pull/5979)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(plans): Show site plan based on price of dedicated server plan](https://github.com/frappe/press/pull/6032)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(readme): Fix Frappe Cloud logo](https://github.com/frappe/press/pull/5980)** - 6 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(actions-tab): Add query param action trigger](https://github.com/frappe/press/pull/5979)** - 6 days ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench-dependencies-tab): Add article link for APT dependencies](https://github.com/frappe/press/pull/5967)** - 1 week ago
 - [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix(boilerplate): add apt dependencies section for Frappe Cloud](https://github.com/frappe/frappe/pull/38198)** - 1 week ago
-- [frappe/helpdesk](https://github.com/frappe/helpdesk) ➔ **[fix: set Link field page limit to 999](https://github.com/frappe/helpdesk/pull/3137)** - 2 weeks ago
