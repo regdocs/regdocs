@@ -12,9 +12,9 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/frappe @ v16.14.0](https://github.com/frappe/frappe/releases/tag/v16.14.0) (today)
-- [frappe/helpdesk @ v1.22.1](https://github.com/frappe/helpdesk/releases/tag/v1.22.1) (6 days ago)
-- [frappe/press @ v0.8.0](https://github.com/frappe/press/releases/tag/v0.8.0) (1 week ago)
+- [frappe/press @ v0.9.2](https://github.com/frappe/press/releases/tag/v0.9.2) (today)
+- [frappe/frappe @ v16.14.0](https://github.com/frappe/frappe/releases/tag/v16.14.0) (1 day ago)
+- [frappe/helpdesk @ v1.22.1](https://github.com/frappe/helpdesk/releases/tag/v1.22.1) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -26,7 +26,7 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(plans): Show site plan based on price of dedicated server plan](https://github.com/frappe/press/pull/6032)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(plans): Show site plan based on price of dedicated server plan](https://github.com/frappe/press/pull/6032)** - 3 days ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[fix(readme): Fix Frappe Cloud logo](https://github.com/frappe/press/pull/5980)** - 1 week ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[feat(actions-tab): Add query param action trigger](https://github.com/frappe/press/pull/5979)** - 1 week ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench-dependencies-tab): Add article link for APT dependencies](https://github.com/frappe/press/pull/5967)** - 1 week ago
