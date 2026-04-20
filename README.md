@@ -12,8 +12,8 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.15.3](https://github.com/frappe/press/releases/tag/v0.15.3) (3 days ago)
-- [frappe/frappe @ v15.105.0](https://github.com/frappe/frappe/releases/tag/v15.105.0) (5 days ago)
+- [frappe/press @ v0.15.5](https://github.com/frappe/press/releases/tag/v0.15.5) (today)
+- [frappe/frappe @ v15.105.0](https://github.com/frappe/frappe/releases/tag/v15.105.0) (6 days ago)
 - [frappe/helpdesk @ v1.22.1](https://github.com/frappe/helpdesk/releases/tag/v1.22.1) (2 weeks ago)
 
 #### ⭐ Recent Stars
@@ -26,8 +26,8 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dedicated-server-plan): Add site action to enable performance mode](https://github.com/frappe/press/pull/6166)** - 2 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace-add-version): Handle more than one app source](https://github.com/frappe/press/pull/6120)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(object-list): Remove border-t for load more](https://github.com/frappe/press/pull/6099)** - 6 days ago
-- [erpnext-apps/union-erpnext](https://github.com/erpnext-apps/union-erpnext) ➔ **[Add bench app dependencies](https://github.com/erpnext-apps/union-erpnext/pull/3)** - 6 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dedicated-server-plan): Add site action to enable performance mode](https://github.com/frappe/press/pull/6166)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace-add-version): Handle more than one app source](https://github.com/frappe/press/pull/6120)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(object-list): Remove border-t for load more](https://github.com/frappe/press/pull/6099)** - 1 week ago
+- [erpnext-apps/union-erpnext](https://github.com/erpnext-apps/union-erpnext) ➔ **[Add bench app dependencies](https://github.com/erpnext-apps/union-erpnext/pull/3)** - 1 week ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[fix(uptime-chart): Update promql query to support empty data points](https://github.com/frappe/press/pull/6076)** - 1 week ago
