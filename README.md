@@ -12,22 +12,22 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.18.5](https://github.com/frappe/press/releases/tag/v0.18.5) (today)
-- [frappe/frappe @ v15.106.0](https://github.com/frappe/frappe/releases/tag/v15.106.0) (3 days ago)
-- [frappe/helpdesk @ v1.22.2](https://github.com/frappe/helpdesk/releases/tag/v1.22.2) (3 days ago)
+- [frappe/press @ v0.18.5](https://github.com/frappe/press/releases/tag/v0.18.5) (1 day ago)
+- [frappe/frappe @ v15.106.0](https://github.com/frappe/frappe/releases/tag/v15.106.0) (4 days ago)
+- [frappe/helpdesk @ v1.22.2](https://github.com/frappe/helpdesk/releases/tag/v1.22.2) (4 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[frappe/frappe](https://github.com/frappe/frappe)** - Low code web framework for real world applications, in Python and Javascript (today)
+- **[frappe/frappe](https://github.com/frappe/frappe)** - Low code web framework for real world applications, in Python and Javascript (1 day ago)
 - **[frappe/helpdesk](https://github.com/frappe/helpdesk)** - Modern, Streamlined, Free and Open Source Customer Service Software (1 month ago)
 - **[frappe/agent](https://github.com/frappe/agent)** - Works with https://github.com/frappe/press (1 month ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(uptime-chart): Replace tooltip text with a shorter message](https://github.com/frappe/press/pull/6212)** - 2 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Fix argument and site uptime](https://github.com/frappe/press/pull/6211)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(uptime-chart): Replace tooltip text with a shorter message](https://github.com/frappe/press/pull/6212)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Fix argument and site uptime](https://github.com/frappe/press/pull/6211)** - 4 days ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[fix(dedicated-server-plan): Add site action to enable performance mode](https://github.com/frappe/press/pull/6166)** - 1 week ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace-add-version): Handle more than one app source](https://github.com/frappe/press/pull/6120)** - 1 week ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[fix(object-list): Remove border-t for load more](https://github.com/frappe/press/pull/6099)** - 1 week ago
