@@ -14,12 +14,6 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 - [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
 {{- end }}
 
-#### ⭐ Recent Stars
-
-{{ range recentStars 3 }}
-- **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
-{{- end }}
-
 #### ⤵️ Recent work
 
 {{ range recentPullRequests 5 }}
