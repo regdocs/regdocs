@@ -22,5 +22,3 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 - [frappe/lms](https://github.com/frappe/lms) ➔ **[fix(dependencies): Add dev dependencies to compile lxml](https://github.com/frappe/lms/pull/2333)** - 1 day ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace): Add label for no public releases](https://github.com/frappe/press/pull/6256)** - 2 days ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[fix(uptime-chart): Replace tooltip text with a shorter message](https://github.com/frappe/press/pull/6212)** - 6 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-analytics): Fix argument and site uptime](https://github.com/frappe/press/pull/6211)** - 1 week ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[@regdocs feat(site-actions): Move compute allocation and warranty to site action](https://github.com/frappe/press/pull/6166)** - 1 week ago
