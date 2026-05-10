@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.31.1](https://github.com/frappe/press/releases/tag/v0.31.1) (today)
-- [frappe/helpdesk @ v1.24.1](https://github.com/frappe/helpdesk/releases/tag/v1.24.1) (1 day ago)
-- [frappe/frappe @ v16.17.5](https://github.com/frappe/frappe/releases/tag/v16.17.5) (2 days ago)
+- [frappe/press @ v0.31.2](https://github.com/frappe/press/releases/tag/v0.31.2) (today)
+- [frappe/helpdesk @ v1.24.1](https://github.com/frappe/helpdesk/releases/tag/v1.24.1) (2 days ago)
+- [frappe/frappe @ v16.17.5](https://github.com/frappe/frappe/releases/tag/v16.17.5) (3 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace): Fix options for version payload error](https://github.com/frappe/press/pull/6346)** - 3 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard-banners): Remove invalid banner var](https://github.com/frappe/press/pull/6337)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard-banners): Remove invalid banner var](https://github.com/frappe/press/pull/6335)** - 4 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace): Fix options for version payload error](https://github.com/frappe/press/pull/6346)** - 4 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard-banners): Remove invalid banner var](https://github.com/frappe/press/pull/6337)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard-banners): Remove invalid banner var](https://github.com/frappe/press/pull/6335)** - 5 days ago
