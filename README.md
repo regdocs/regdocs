@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.39.8](https://github.com/frappe/press/releases/tag/v0.39.8) (today)
-- [frappe/frappe @ v15.110.0](https://github.com/frappe/frappe/releases/tag/v15.110.0) (today)
-- [frappe/helpdesk @ v1.25.1](https://github.com/frappe/helpdesk/releases/tag/v1.25.1) (4 days ago)
+- [frappe/press @ v0.41.4](https://github.com/frappe/press/releases/tag/v0.41.4) (today)
+- [frappe/frappe @ v15.110.0](https://github.com/frappe/frappe/releases/tag/v15.110.0) (1 day ago)
+- [frappe/helpdesk @ v1.25.1](https://github.com/frappe/helpdesk/releases/tag/v1.25.1) (5 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat: Stream backups](https://github.com/frappe/press/pull/6587)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat: Stream backups](https://github.com/frappe/press/pull/6587)** - 1 day ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[fix(plan-fixtures): Update  to overwrite db docs correctly](https://github.com/frappe/press/pull/6495)** - 1 week ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[fix(plan-fixtures): Update  to overwrite db docs correctly](https://github.com/frappe/press/pull/6491)** - 1 week ago
