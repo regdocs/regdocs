@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.41.11](https://github.com/frappe/press/releases/tag/v0.41.11) (2 days ago)
-- [frappe/frappe @ v15.110.0](https://github.com/frappe/frappe/releases/tag/v15.110.0) (5 days ago)
+- [frappe/press @ v0.41.11](https://github.com/frappe/press/releases/tag/v0.41.11) (3 days ago)
+- [frappe/frappe @ v15.110.0](https://github.com/frappe/frappe/releases/tag/v15.110.0) (6 days ago)
 - [frappe/helpdesk @ v1.25.1](https://github.com/frappe/helpdesk/releases/tag/v1.25.1) (1 week ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(manage-product-warranty): Fix site warranty count query](https://github.com/frappe/press/pull/6627)** - 2 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(manage-product-warranty): Fix docs link](https://github.com/frappe/press/pull/6625)** - 2 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(deploy-candidate): Show app name in fetch error notification](https://github.com/frappe/press/pull/6622)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(plan-instance-type): Sync server plans from prod](https://github.com/frappe/press/pull/6640)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(manage-product-warranty): Fix site warranty count query](https://github.com/frappe/press/pull/6627)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(manage-product-warranty): Fix docs link](https://github.com/frappe/press/pull/6625)** - 3 days ago
