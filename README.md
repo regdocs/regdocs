@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.42.4](https://github.com/frappe/press/releases/tag/v0.42.4) (today)
-- [frappe/frappe @ v16.21.0](https://github.com/frappe/frappe/releases/tag/v16.21.0) (today)
-- [frappe/helpdesk @ v1.25.1](https://github.com/frappe/helpdesk/releases/tag/v1.25.1) (1 week ago)
+- [frappe/helpdesk @ v1.26.0](https://github.com/frappe/helpdesk/releases/tag/v1.26.0) (today)
+- [frappe/press @ v0.42.7](https://github.com/frappe/press/releases/tag/v0.42.7) (today)
+- [frappe/frappe @ v16.22.0](https://github.com/frappe/frappe/releases/tag/v16.22.0) (today)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-overview): Show compute for non-dedicated site](https://github.com/frappe/press/pull/6672)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(json): Remove trailing comma](https://github.com/frappe/press/pull/6655)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(github-app-selector): Fix error handling](https://github.com/frappe/press/pull/6654)** - today
+- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix(print): Re-assert chromium executable bit when binary already exists](https://github.com/frappe/frappe/pull/39899)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(server): Persist auto increase storage disable on DB servers](https://github.com/frappe/press/pull/6691)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(product-warranty-switch): Gate warranty enabling only](https://github.com/frappe/press/pull/6686)** - today
