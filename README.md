@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/frappe @ v15.112.0](https://github.com/frappe/frappe/releases/tag/v15.112.0) (today)
-- [frappe/press @ v0.42.17](https://github.com/frappe/press/releases/tag/v0.42.17) (today)
-- [frappe/helpdesk @ v1.26.0](https://github.com/frappe/helpdesk/releases/tag/v1.26.0) (5 days ago)
+- [frappe/helpdesk @ v1.26.1](https://github.com/frappe/helpdesk/releases/tag/v1.26.1) (today)
+- [frappe/frappe @ v15.112.0](https://github.com/frappe/frappe/releases/tag/v15.112.0) (1 day ago)
+- [frappe/press @ v0.42.17](https://github.com/frappe/press/releases/tag/v0.42.17) (1 day ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench): Trigger install of SSH command guard on benches](https://github.com/frappe/press/pull/6718)** - 1 day ago
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[feat(bench): Block destructive bench commands over SSH on production](https://github.com/frappe/agent/pull/543)** - 1 day ago
-- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix(print): Re-assert chromium executable bit when binary already exists](https://github.com/frappe/frappe/pull/39899)** - 5 days ago
+- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix: don't delete recent FIFOs in backup dir based on file type](https://github.com/frappe/frappe/pull/40056)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(github): Refresh access token after app (re)installation](https://github.com/frappe/press/pull/6731)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench): Trigger install of SSH command guard on benches](https://github.com/frappe/press/pull/6718)** - 2 days ago
