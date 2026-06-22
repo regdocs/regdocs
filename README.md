@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.44.3](https://github.com/frappe/press/releases/tag/v0.44.3) (1 day ago)
-- [frappe/helpdesk @ v1.26.1](https://github.com/frappe/helpdesk/releases/tag/v1.26.1) (4 days ago)
-- [frappe/frappe @ v15.112.0](https://github.com/frappe/frappe/releases/tag/v15.112.0) (5 days ago)
+- [frappe/press @ v0.44.6](https://github.com/frappe/press/releases/tag/v0.44.6) (today)
+- [frappe/helpdesk @ v1.26.2](https://github.com/frappe/helpdesk/releases/tag/v1.26.2) (today)
+- [frappe/frappe @ v16.23.1](https://github.com/frappe/frappe/releases/tag/v16.23.1) (today)
 
 #### ⤵️ Recent work
 
 
-- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix: add distro to dependencies](https://github.com/frappe/frappe/pull/40147)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(deploy-candidate): Fix Schedule Build and Deploy popup crash](https://github.com/frappe/press/pull/6757)** - 1 day ago
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[feat: Stream backups](https://github.com/frappe/agent/pull/546)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-domain): Sync upstream-added domains to site config](https://github.com/frappe/press/pull/6769)** - today
+- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix(print): Allow report PDF assets from all site domains](https://github.com/frappe/frappe/pull/40199)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site): Allow enabling product warranty irrespective of cooldown](https://github.com/frappe/press/pull/6764)** - today
