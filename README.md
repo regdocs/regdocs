@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.46.2](https://github.com/frappe/press/releases/tag/v0.46.2) (today)
-- [frappe/frappe @ v15.113.0](https://github.com/frappe/frappe/releases/tag/v15.113.0) (today)
-- [frappe/helpdesk @ v1.26.2](https://github.com/frappe/helpdesk/releases/tag/v1.26.2) (2 days ago)
+- [frappe/press @ v0.47.1](https://github.com/frappe/press/releases/tag/v0.47.1) (today)
+- [frappe/frappe @ v15.113.1](https://github.com/frappe/frappe/releases/tag/v15.113.1) (today)
+- [frappe/helpdesk @ v1.26.2](https://github.com/frappe/helpdesk/releases/tag/v1.26.2) (3 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site): Allow enabling product warranty irrespective of cooldown](https://github.com/frappe/press/pull/6771)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-domain): Sync upstream-added domains to site config](https://github.com/frappe/press/pull/6769)** - 2 days ago
-- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix(print): Allow report PDF assets from all site domains](https://github.com/frappe/frappe/pull/40199)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(restore): carry over site config in restore_site_from_files](https://github.com/frappe/press/pull/6811)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(restore): carry over site config in restore_site_from_files](https://github.com/frappe/press/pull/6808)** - today
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(backup): make streaming offsite backups correct and hang-proof](https://github.com/frappe/agent/pull/553)** - today
