@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.47.1](https://github.com/frappe/press/releases/tag/v0.47.1) (today)
-- [frappe/frappe @ v15.113.1](https://github.com/frappe/frappe/releases/tag/v15.113.1) (today)
-- [frappe/helpdesk @ v1.26.2](https://github.com/frappe/helpdesk/releases/tag/v1.26.2) (3 days ago)
+- [frappe/press @ v0.48.0](https://github.com/frappe/press/releases/tag/v0.48.0) (today)
+- [frappe/frappe @ v15.113.1](https://github.com/frappe/frappe/releases/tag/v15.113.1) (1 day ago)
+- [frappe/helpdesk @ v1.26.2](https://github.com/frappe/helpdesk/releases/tag/v1.26.2) (4 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(restore): carry over site config in restore_site_from_files](https://github.com/frappe/press/pull/6811)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(restore): carry over site config in restore_site_from_files](https://github.com/frappe/press/pull/6808)** - today
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(backup): make streaming offsite backups correct and hang-proof](https://github.com/frappe/agent/pull/553)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(restore): carry over site config in restore_site_from_files](https://github.com/frappe/press/pull/6811)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(restore): carry over site config in restore_site_from_files](https://github.com/frappe/press/pull/6808)** - 1 day ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(backup): make streaming offsite backups correct and hang-proof](https://github.com/frappe/agent/pull/553)** - 1 day ago
