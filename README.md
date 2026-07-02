@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.57.5](https://github.com/frappe/press/releases/tag/v0.57.5) (today)
-- [frappe/frappe @ v16.25.0](https://github.com/frappe/frappe/releases/tag/v16.25.0) (today)
+- [frappe/press @ v0.58.5](https://github.com/frappe/press/releases/tag/v0.58.5) (today)
+- [frappe/frappe @ v16.25.0](https://github.com/frappe/frappe/releases/tag/v16.25.0) (1 day ago)
 - [frappe/helpdesk @ v1.26.2](https://github.com/frappe/helpdesk/releases/tag/v1.26.2) (1 week ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(job): make job timeout configurable via request param (backport to master)](https://github.com/frappe/agent/pull/556)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site): Gate dedicated plan warranty on app + database server cost](https://github.com/frappe/press/pull/6871)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site): Gate dedicated plan warranty on app + database server cost](https://github.com/frappe/press/pull/6838)** - 2 days ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(job): make job timeout configurable via request param (backport to master)](https://github.com/frappe/agent/pull/556)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site): Gate dedicated plan warranty on app + database server cost](https://github.com/frappe/press/pull/6871)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site): Gate dedicated plan warranty on app + database server cost](https://github.com/frappe/press/pull/6838)** - 3 days ago
