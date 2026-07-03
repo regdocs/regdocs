@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.58.5](https://github.com/frappe/press/releases/tag/v0.58.5) (today)
-- [frappe/frappe @ v16.25.0](https://github.com/frappe/frappe/releases/tag/v16.25.0) (1 day ago)
+- [frappe/press @ v0.60.2](https://github.com/frappe/press/releases/tag/v0.60.2) (today)
+- [frappe/frappe @ v15.113.4](https://github.com/frappe/frappe/releases/tag/v15.113.4) (today)
 - [frappe/helpdesk @ v1.26.2](https://github.com/frappe/helpdesk/releases/tag/v1.26.2) (1 week ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(job): make job timeout configurable via request param (backport to master)](https://github.com/frappe/agent/pull/556)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site): Gate dedicated plan warranty on app + database server cost](https://github.com/frappe/press/pull/6871)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site): Gate dedicated plan warranty on app + database server cost](https://github.com/frappe/press/pull/6838)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(product-trial): Only hand out standby sites on the latest bench](https://github.com/frappe/press/pull/6905)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(docker): Prebundle headless Chromium in prod bench image](https://github.com/frappe/press/pull/6904)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-domain): Sync upstream-added domains to site config](https://github.com/frappe/press/pull/6894)** - today
