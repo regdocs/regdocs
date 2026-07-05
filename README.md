@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.60.2](https://github.com/frappe/press/releases/tag/v0.60.2) (1 day ago)
-- [frappe/frappe @ v15.113.4](https://github.com/frappe/frappe/releases/tag/v15.113.4) (1 day ago)
+- [frappe/press @ v0.60.3](https://github.com/frappe/press/releases/tag/v0.60.3) (today)
+- [frappe/frappe @ v15.113.4](https://github.com/frappe/frappe/releases/tag/v15.113.4) (2 days ago)
 - [frappe/helpdesk @ v1.26.2](https://github.com/frappe/helpdesk/releases/tag/v1.26.2) (1 week ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(product-trial): Only hand out standby sites on the latest bench](https://github.com/frappe/press/pull/6905)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(docker): Prebundle headless Chromium in prod bench image](https://github.com/frappe/press/pull/6904)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-domain): Sync upstream-added domains to site config](https://github.com/frappe/press/pull/6894)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(product-trial): Only hand out standby sites on the latest bench](https://github.com/frappe/press/pull/6905)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(docker): Prebundle headless Chromium in prod bench image](https://github.com/frappe/press/pull/6904)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-domain): Sync upstream-added domains to site config](https://github.com/frappe/press/pull/6894)** - 2 days ago
