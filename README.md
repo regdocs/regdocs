@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.62.5](https://github.com/frappe/press/releases/tag/v0.62.5) (2 days ago)
-- [frappe/helpdesk @ v1.27.0](https://github.com/frappe/helpdesk/releases/tag/v1.27.0) (2 days ago)
-- [frappe/frappe @ v16.26.3](https://github.com/frappe/frappe/releases/tag/v16.26.3) (2 days ago)
+- [frappe/press @ v0.70.0](https://github.com/frappe/press/releases/tag/v0.70.0) (today)
+- [frappe/helpdesk @ v1.27.0](https://github.com/frappe/helpdesk/releases/tag/v1.27.0) (3 days ago)
+- [frappe/frappe @ v16.26.3](https://github.com/frappe/frappe/releases/tag/v16.26.3) (3 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(bench): Exclude archived sites' updates from archive block](https://github.com/frappe/press/pull/6927)** - 2 days ago
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(bench): write config.json atomically to prevent silent 404s](https://github.com/frappe/agent/pull/559)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(product-trial): Only hand out standby sites on the latest bench](https://github.com/frappe/press/pull/6905)** - 1 week ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard): Surface invite-accept errors and handle account mismatch](https://github.com/frappe/press/pull/6934)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(bench): Exclude archived sites' updates from archive block](https://github.com/frappe/press/pull/6927)** - 3 days ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(bench): write config.json atomically to prevent silent 404s](https://github.com/frappe/agent/pull/559)** - 5 days ago
