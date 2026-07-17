@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/frappe @ v16.27.1](https://github.com/frappe/frappe/releases/tag/v16.27.1) (today)
-- [frappe/press @ v0.74.0](https://github.com/frappe/press/releases/tag/v0.74.0) (today)
-- [frappe/helpdesk @ v1.27.0](https://github.com/frappe/helpdesk/releases/tag/v1.27.0) (6 days ago)
+- [frappe/press @ v0.76.3](https://github.com/frappe/press/releases/tag/v0.76.3) (today)
+- [frappe/frappe @ v16.27.1](https://github.com/frappe/frappe/releases/tag/v16.27.1) (1 day ago)
+- [frappe/helpdesk @ v1.27.0](https://github.com/frappe/helpdesk/releases/tag/v1.27.0) (1 week ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[perf(analytics): Split advanced site analytics into per-chart requests](https://github.com/frappe/press/pull/6963)** - 2 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard): Surface invite-accept errors and handle account mismatch](https://github.com/frappe/press/pull/6934)** - 3 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(bench): Exclude archived sites' updates from archive block](https://github.com/frappe/press/pull/6927)** - 6 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[perf(analytics): Split advanced site analytics into per-chart requests](https://github.com/frappe/press/pull/6963)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(team): Accept team invite as Administrator so member side effects don't fail](https://github.com/frappe/press/pull/6934)** - 4 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(bench): Exclude archived sites' updates from archive block](https://github.com/frappe/press/pull/6927)** - 1 week ago
