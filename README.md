@@ -12,9 +12,9 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.81.2](https://github.com/frappe/press/releases/tag/v0.81.2) (today)
-- [frappe/helpdesk @ v1.28.1](https://github.com/frappe/helpdesk/releases/tag/v1.28.1) (2 days ago)
-- [frappe/frappe @ v15.116.0](https://github.com/frappe/frappe/releases/tag/v15.116.0) (3 days ago)
+- [frappe/press @ v0.81.3](https://github.com/frappe/press/releases/tag/v0.81.3) (today)
+- [frappe/helpdesk @ v1.28.1](https://github.com/frappe/helpdesk/releases/tag/v1.28.1) (3 days ago)
+- [frappe/frappe @ v15.116.0](https://github.com/frappe/frappe/releases/tag/v15.116.0) (4 days ago)
 
 #### ⤵️ Recent work
 
