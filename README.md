@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.83.4](https://github.com/frappe/press/releases/tag/v0.83.4) (2 days ago)
-- [frappe/frappe @ v15.116.1](https://github.com/frappe/frappe/releases/tag/v15.116.1) (4 days ago)
+- [frappe/press @ v0.83.4](https://github.com/frappe/press/releases/tag/v0.83.4) (3 days ago)
+- [frappe/frappe @ v15.116.1](https://github.com/frappe/frappe/releases/tag/v15.116.1) (5 days ago)
 - [frappe/helpdesk @ v1.28.1](https://github.com/frappe/helpdesk/releases/tag/v1.28.1) (1 week ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(tls): Decrypt private key in desk copy button](https://github.com/frappe/press/pull/7083)** - 3 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(tls): Encrypt TLS private keys at rest](https://github.com/frappe/press/pull/7065)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(tls): Decrypt private key in desk copy button](https://github.com/frappe/press/pull/7083)** - 4 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(tls): Encrypt TLS private keys at rest](https://github.com/frappe/press/pull/7065)** - 6 days ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[perf(analytics): Split advanced site analytics into per-chart requests](https://github.com/frappe/press/pull/6963)** - 2 weeks ago
