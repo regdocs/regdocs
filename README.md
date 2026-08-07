@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.89.6](https://github.com/frappe/press/releases/tag/v0.89.6) (today)
-- [frappe/frappe @ v15.117.0](https://github.com/frappe/frappe/releases/tag/v15.117.0) (today)
-- [frappe/helpdesk @ v1.29.0](https://github.com/frappe/helpdesk/releases/tag/v1.29.0) (today)
+- [frappe/press @ v0.90.3](https://github.com/frappe/press/releases/tag/v0.90.3) (1 day ago)
+- [frappe/frappe @ v15.117.0](https://github.com/frappe/frappe/releases/tag/v15.117.0) (2 days ago)
+- [frappe/helpdesk @ v1.29.0](https://github.com/frappe/helpdesk/releases/tag/v1.29.0) (2 days ago)
 
 #### ⤵️ Recent work
 
 
-- [LAB-OF-WEB/payments](https://github.com/LAB-OF-WEB/payments) ➔ **[Update razorpay dependency version to 2.0.0](https://github.com/LAB-OF-WEB/payments/pull/1)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(database-server): Fix broken duplicate DB server actions](https://github.com/frappe/press/pull/7109)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(tls): Decrypt private key in desk copy button](https://github.com/frappe/press/pull/7083)** - 1 week ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(docker): Correct libatspi package name and list Chromium's deps](https://github.com/frappe/press/pull/7139)** - 1 day ago
+- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix(chromium): Make headless_shell executable on linux arm64](https://github.com/frappe/frappe/pull/41661)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench): Mark managed benches in common_site_config](https://github.com/frappe/press/pull/7130)** - 1 day ago
