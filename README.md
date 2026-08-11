@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.94.7](https://github.com/frappe/press/releases/tag/v0.94.7) (today)
-- [frappe/frappe @ v15.117.0](https://github.com/frappe/frappe/releases/tag/v15.117.0) (5 days ago)
-- [frappe/helpdesk @ v1.29.0](https://github.com/frappe/helpdesk/releases/tag/v1.29.0) (5 days ago)
+- [frappe/frappe @ v16.31.0](https://github.com/frappe/frappe/releases/tag/v16.31.0) (today)
+- [frappe/press @ v0.95.4](https://github.com/frappe/press/releases/tag/v0.95.4) (today)
+- [frappe/helpdesk @ v1.29.0](https://github.com/frappe/helpdesk/releases/tag/v1.29.0) (6 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(docker): Correct libatspi package name and list Chromium's deps](https://github.com/frappe/press/pull/7139)** - 4 days ago
-- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix(chromium): Make headless_shell executable on linux arm64](https://github.com/frappe/frappe/pull/41661)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(bench): Mark managed benches in common_site_config](https://github.com/frappe/press/pull/7130)** - 4 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(monitoring): Alert when a large share of recent signups fail](https://github.com/frappe/press/pull/7186)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(versioning): Skip Frappe version check when a branch declares none](https://github.com/frappe/press/pull/7181)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(docker): Correct libatspi package name and list Chromium's deps](https://github.com/frappe/press/pull/7139)** - 5 days ago
