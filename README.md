@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.99.0](https://github.com/frappe/press/releases/tag/v0.99.0) (2 days ago)
-- [frappe/frappe @ v16.31.0](https://github.com/frappe/frappe/releases/tag/v16.31.0) (5 days ago)
+- [frappe/press @ v0.101.3](https://github.com/frappe/press/releases/tag/v0.101.3) (today)
+- [frappe/frappe @ v16.31.0](https://github.com/frappe/frappe/releases/tag/v16.31.0) (6 days ago)
 - [frappe/helpdesk @ v1.29.0](https://github.com/frappe/helpdesk/releases/tag/v1.29.0) (1 week ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(monitoring): Alert when a large share of recent signups fail](https://github.com/frappe/press/pull/7186)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(versioning): Skip Frappe version check when a branch declares none](https://github.com/frappe/press/pull/7181)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(monitoring): Alert when a large share of recent signups fail](https://github.com/frappe/press/pull/7186)** - 6 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(versioning): Skip Frappe version check when a branch declares none](https://github.com/frappe/press/pull/7181)** - 6 days ago
 - [frappe/press](https://github.com/frappe/press) ➔ **[fix(docker): Correct libatspi package name and list Chromium's deps](https://github.com/frappe/press/pull/7139)** - 1 week ago
