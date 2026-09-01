@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.114.7](https://github.com/frappe/press/releases/tag/v0.114.7) (1 day ago)
+- [frappe/frappe @ v15.120.0](https://github.com/frappe/frappe/releases/tag/v15.120.0) (today)
+- [frappe/press @ v0.115.2](https://github.com/frappe/press/releases/tag/v0.115.2) (today)
 - [frappe/helpdesk @ v1.30.0](https://github.com/frappe/helpdesk/releases/tag/v1.30.0) (3 days ago)
-- [frappe/frappe @ v15.119.1](https://github.com/frappe/frappe/releases/tag/v15.119.1) (5 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-config): Require JSON config values to be an object or array](https://github.com/frappe/press/pull/7337)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-config): Require JSON config values to be an object or array](https://github.com/frappe/press/pull/7326)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(server): Install rclone on servers created from an image](https://github.com/frappe/press/pull/7253)** - 2 weeks ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard): Create the site on the server whose row was clicked](https://github.com/frappe/press/pull/7356)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard): Show only a server's own sites under a bench group](https://github.com/frappe/press/pull/7355)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(app-source): Handle a branch deleted on GitHub](https://github.com/frappe/press/pull/7353)** - today
