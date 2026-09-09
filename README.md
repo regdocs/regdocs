@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/frappe @ v15.120.1](https://github.com/frappe/frappe/releases/tag/v15.120.1) (today)
-- [frappe/press @ v0.121.2](https://github.com/frappe/press/releases/tag/v0.121.2) (today)
-- [frappe/helpdesk @ v1.30.1](https://github.com/frappe/helpdesk/releases/tag/v1.30.1) (5 days ago)
+- [frappe/press @ v0.121.3](https://github.com/frappe/press/releases/tag/v0.121.3) (today)
+- [frappe/frappe @ v15.120.1](https://github.com/frappe/frappe/releases/tag/v15.120.1) (1 day ago)
+- [frappe/helpdesk @ v1.30.1](https://github.com/frappe/helpdesk/releases/tag/v1.30.1) (6 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[backport(master): Alert when a large share of recent signups fail (#7186)](https://github.com/frappe/press/pull/7403)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat: alert on Raven when hourly backup success rate drops below 97%](https://github.com/frappe/press/pull/7382)** - 4 days ago
-- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[feat(backups): stream backups to S3-compatible storage](https://github.com/frappe/frappe/pull/42505)** - 4 days ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[backport(master): fix(job): Make job timeout configurable so that job can pass as param (#384)](https://github.com/frappe/agent/pull/596)** - today
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(job): resolve the job timeout without ever failing the enqueue](https://github.com/frappe/agent/pull/595)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[backport(master): Alert when a large share of recent signups fail (#7186)](https://github.com/frappe/press/pull/7403)** - 1 day ago
