@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/frappe @ v15.121.0](https://github.com/frappe/frappe/releases/tag/v15.121.0) (today)
-- [frappe/press @ v0.128.1](https://github.com/frappe/press/releases/tag/v0.128.1) (4 days ago)
+- [frappe/press @ v0.130.2](https://github.com/frappe/press/releases/tag/v0.130.2) (today)
+- [frappe/frappe @ v15.121.0](https://github.com/frappe/frappe/releases/tag/v15.121.0) (1 day ago)
 - [frappe/helpdesk @ v1.30.1](https://github.com/frappe/helpdesk/releases/tag/v1.30.1) (1 week ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(playbooks): Block metadata IP egress from the host itself](https://github.com/frappe/press/pull/7461)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(webhook): Block SSRF via customer webhook endpoints](https://github.com/frappe/press/pull/7459)** - 4 days ago
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[backport(master): fix(job): Make job timeout configurable so that job can pass as param (#384)](https://github.com/frappe/agent/pull/596)** - 6 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(login): Warn on capitalised email and lowercase it on login](https://github.com/frappe/press/pull/7481)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(playbooks): Block metadata IP egress from the host itself](https://github.com/frappe/press/pull/7461)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(webhook): Block SSRF via customer webhook endpoints](https://github.com/frappe/press/pull/7459)** - 5 days ago
