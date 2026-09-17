@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.130.2](https://github.com/frappe/press/releases/tag/v0.130.2) (today)
-- [frappe/frappe @ v15.121.0](https://github.com/frappe/frappe/releases/tag/v15.121.0) (1 day ago)
-- [frappe/helpdesk @ v1.30.1](https://github.com/frappe/helpdesk/releases/tag/v1.30.1) (1 week ago)
+- [frappe/press @ v0.133.4](https://github.com/frappe/press/releases/tag/v0.133.4) (today)
+- [frappe/frappe @ v15.121.0](https://github.com/frappe/frappe/releases/tag/v15.121.0) (2 days ago)
+- [frappe/helpdesk @ v1.30.1](https://github.com/frappe/helpdesk/releases/tag/v1.30.1) (2 weeks ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(login): Warn on capitalised email and lowercase it on login](https://github.com/frappe/press/pull/7481)** - today
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(playbooks): Block metadata IP egress from the host itself](https://github.com/frappe/press/pull/7461)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(webhook): Block SSRF via customer webhook endpoints](https://github.com/frappe/press/pull/7459)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace): Reject marketplace plan for a same-named custom app](https://github.com/frappe/press/pull/7493)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard): Add purge binlog action to server overview query](https://github.com/frappe/press/pull/7488)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(login): Warn on capitalised email and lowercase it on login](https://github.com/frappe/press/pull/7481)** - 1 day ago
