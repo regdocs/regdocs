@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.134.0](https://github.com/frappe/press/releases/tag/v0.134.0) (1 day ago)
-- [frappe/frappe @ v15.121.0](https://github.com/frappe/frappe/releases/tag/v15.121.0) (4 days ago)
+- [frappe/press @ v0.134.0](https://github.com/frappe/press/releases/tag/v0.134.0) (2 days ago)
+- [frappe/frappe @ v15.121.0](https://github.com/frappe/frappe/releases/tag/v15.121.0) (5 days ago)
 - [frappe/helpdesk @ v1.30.1](https://github.com/frappe/helpdesk/releases/tag/v1.30.1) (2 weeks ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(server): Add decommission migration notice email for teams](https://github.com/frappe/press/pull/7494)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace): Reject marketplace plan for a same-named custom app](https://github.com/frappe/press/pull/7493)** - 2 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard): Add purge binlog action to server overview query](https://github.com/frappe/press/pull/7488)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(server): Add decommission migration notice email for teams](https://github.com/frappe/press/pull/7494)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace): Reject marketplace plan for a same-named custom app](https://github.com/frappe/press/pull/7493)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard): Add purge binlog action to server overview query](https://github.com/frappe/press/pull/7488)** - 3 days ago
