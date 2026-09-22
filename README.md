@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/frappe @ assets-version-16-polished](https://github.com/frappe/frappe/releases/tag/assets-version-16-polished) (1 day ago)
-- [frappe/press @ v0.134.0](https://github.com/frappe/press/releases/tag/v0.134.0) (4 days ago)
+- [frappe/frappe @ v15.121.1](https://github.com/frappe/frappe/releases/tag/v15.121.1) (today)
+- [frappe/press @ v0.135.3](https://github.com/frappe/press/releases/tag/v0.135.3) (today)
 - [frappe/helpdesk @ v1.30.1](https://github.com/frappe/helpdesk/releases/tag/v1.30.1) (2 weeks ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(server): Add decommission migration notice email for teams](https://github.com/frappe/press/pull/7494)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace): Reject marketplace plan for a same-named custom app](https://github.com/frappe/press/pull/7493)** - 5 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard): Add purge binlog action to server overview query](https://github.com/frappe/press/pull/7488)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix: bump default Site backup_timeout to 10 hours](https://github.com/frappe/press/pull/7518)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(dashboard): Scope impersonation to a single tab](https://github.com/frappe/press/pull/7517)** - today
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard): add DISABLE_SENTRY kill switch](https://github.com/frappe/press/pull/7514)** - today
