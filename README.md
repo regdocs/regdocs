@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.137.0](https://github.com/frappe/press/releases/tag/v0.137.0) (3 days ago)
-- [frappe/frappe @ v15.121.1](https://github.com/frappe/frappe/releases/tag/v15.121.1) (6 days ago)
+- [frappe/press @ v0.139.0](https://github.com/frappe/press/releases/tag/v0.139.0) (1 day ago)
+- [frappe/frappe @ v15.121.1](https://github.com/frappe/frappe/releases/tag/v15.121.1) (1 week ago)
 - [frappe/helpdesk @ v1.30.1](https://github.com/frappe/helpdesk/releases/tag/v1.30.1) (3 weeks ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(backups): Daily Raven digest of sites whose backups keep failing](https://github.com/frappe/press/pull/7577)** - 3 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(saas): Make the prepare-site setup key single use](https://github.com/frappe/press/pull/7568)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace): Check subscription ownership in change_app_plan](https://github.com/frappe/press/pull/7567)** - 4 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(backups): Daily Raven digest of sites whose backups keep failing](https://github.com/frappe/press/pull/7577)** - 4 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(saas): Make the prepare-site setup key single use](https://github.com/frappe/press/pull/7568)** - 5 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace): Check subscription ownership in change_app_plan](https://github.com/frappe/press/pull/7567)** - 5 days ago
