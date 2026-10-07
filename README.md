@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.149.0](https://github.com/frappe/press/releases/tag/v0.149.0) (1 day ago)
-- [frappe/frappe @ v16.36.1](https://github.com/frappe/frappe/releases/tag/v16.36.1) (6 days ago)
-- [frappe/helpdesk @ v1.30.1](https://github.com/frappe/helpdesk/releases/tag/v1.30.1) (1 month ago)
+- [frappe/frappe @ v15.122.0](https://github.com/frappe/frappe/releases/tag/v15.122.0) (1 day ago)
+- [frappe/helpdesk @ assets-develop](https://github.com/frappe/helpdesk/releases/tag/assets-develop) (1 day ago)
+- [frappe/press @ v0.151.0](https://github.com/frappe/press/releases/tag/v0.151.0) (1 day ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site-update): Show standby sites behind in Rollout Progress](https://github.com/frappe/press/pull/7674)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(release-group): Queue Deploy Now on the long queue](https://github.com/frappe/press/pull/7672)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(site-backup): Repair a crashed global search table on the site's bench](https://github.com/frappe/press/pull/7667)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(release-group): Link the queued job from Deploy Now](https://github.com/frappe/press/pull/7688)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(release-group): Queue Deploy Now by method path](https://github.com/frappe/press/pull/7686)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(release-group): Queue Deploy Now on the build queue](https://github.com/frappe/press/pull/7684)** - 1 day ago
