@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/helpdesk @ v1.30.2](https://github.com/frappe/helpdesk/releases/tag/v1.30.2) (1 day ago)
-- [frappe/press @ v0.155.8](https://github.com/frappe/press/releases/tag/v0.155.8) (2 days ago)
-- [frappe/frappe @ v16.51.0](https://github.com/frappe/frappe/releases/tag/v16.51.0) (4 days ago)
+- [frappe/frappe @ v16.51.1](https://github.com/frappe/frappe/releases/tag/v16.51.1) (1 day ago)
+- [frappe/press @ v0.156.0](https://github.com/frappe/press/releases/tag/v0.156.0) (1 day ago)
+- [frappe/helpdesk @ v1.30.2](https://github.com/frappe/helpdesk/releases/tag/v1.30.2) (2 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(archive): Finish forced archive when the database directory has leftover files](https://github.com/frappe/agent/pull/625)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard): Open site login tab before the login request resolves](https://github.com/frappe/press/pull/7728)** - 2 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(dashboard): Show durations only once a job, play or build finishes](https://github.com/frappe/press/pull/7724)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site-migration): Add Skip Migrate option for the restore on destination](https://github.com/frappe/press/pull/7730)** - 1 day ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[feat(restore): Allow skipping migrate in New Site from Backup](https://github.com/frappe/agent/pull/626)** - 1 day ago
+- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix(sidebar): keep a converted sidebar off the dock of an app the site no longer has](https://github.com/frappe/frappe/pull/44274)** - 1 day ago
