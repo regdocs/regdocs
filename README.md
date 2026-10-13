@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/frappe @ v16.51.1](https://github.com/frappe/frappe/releases/tag/v16.51.1) (1 day ago)
-- [frappe/press @ v0.156.0](https://github.com/frappe/press/releases/tag/v0.156.0) (1 day ago)
-- [frappe/helpdesk @ v1.30.2](https://github.com/frappe/helpdesk/releases/tag/v1.30.2) (2 days ago)
+- [frappe/press @ v0.156.3](https://github.com/frappe/press/releases/tag/v0.156.3) (1 day ago)
+- [frappe/frappe @ v16.51.1](https://github.com/frappe/frappe/releases/tag/v16.51.1) (2 days ago)
+- [frappe/helpdesk @ v1.30.2](https://github.com/frappe/helpdesk/releases/tag/v1.30.2) (3 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site-migration): Add Skip Migrate option for the restore on destination](https://github.com/frappe/press/pull/7730)** - 1 day ago
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[feat(restore): Allow skipping migrate in New Site from Backup](https://github.com/frappe/agent/pull/626)** - 1 day ago
-- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix(sidebar): keep a converted sidebar off the dock of an app the site no longer has](https://github.com/frappe/frappe/pull/44274)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site): Add a site action to manage local backups](https://github.com/frappe/press/pull/7738)** - 1 day ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[feat(site): List and delete backups in a site's private/backups](https://github.com/frappe/agent/pull/628)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(deploy-candidate-build): Show steps the agent adds to the Dockerfile](https://github.com/frappe/press/pull/7737)** - 1 day ago
