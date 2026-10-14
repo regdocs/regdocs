@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.156.3](https://github.com/frappe/press/releases/tag/v0.156.3) (1 day ago)
-- [frappe/frappe @ v16.51.1](https://github.com/frappe/frappe/releases/tag/v16.51.1) (2 days ago)
-- [frappe/helpdesk @ v1.30.2](https://github.com/frappe/helpdesk/releases/tag/v1.30.2) (3 days ago)
+- [frappe/press @ v0.158.1](https://github.com/frappe/press/releases/tag/v0.158.1) (1 day ago)
+- [frappe/frappe @ v16.51.1](https://github.com/frappe/frappe/releases/tag/v16.51.1) (3 days ago)
+- [frappe/helpdesk @ v1.30.2](https://github.com/frappe/helpdesk/releases/tag/v1.30.2) (4 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site): Add a site action to manage local backups](https://github.com/frappe/press/pull/7738)** - 1 day ago
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[feat(site): List and delete backups in a site's private/backups](https://github.com/frappe/agent/pull/628)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(deploy-candidate-build): Show steps the agent adds to the Dockerfile](https://github.com/frappe/press/pull/7737)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(deploy-candidate-build): Record when each build step ended](https://github.com/frappe/press/pull/7745)** - 1 day ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[feat(build): Stamp each build step's DONE line with when it ended](https://github.com/frappe/agent/pull/634)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(build): Turn the asset store back on for public groups](https://github.com/frappe/press/pull/7741)** - 1 day ago
