@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.164.2](https://github.com/frappe/press/releases/tag/v0.164.2) (1 day ago)
-- [frappe/frappe @ v16.53.0](https://github.com/frappe/frappe/releases/tag/v16.53.0) (1 day ago)
+- [frappe/press @ v0.168.0](https://github.com/frappe/press/releases/tag/v0.168.0) (1 day ago)
+- [frappe/frappe @ v16.53.0](https://github.com/frappe/frappe/releases/tag/v16.53.0) (2 days ago)
 - [frappe/helpdesk @ v1.31.0](https://github.com/frappe/helpdesk/releases/tag/v1.31.0) (1 week ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(backups): List sites without a successful backup in the daily audit](https://github.com/frappe/press/pull/7837)** - 1 day ago
-- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix(deps): require certifi>=2026.10.19](https://github.com/frappe/frappe/pull/44945)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(deps): Require certifi 2026.10.19 or later](https://github.com/frappe/press/pull/7831)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site): Cancel ongoing backups when a user starts a site migrate](https://github.com/frappe/press/pull/7838)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(backups): List sites without a successful backup in the daily audit](https://github.com/frappe/press/pull/7837)** - 2 days ago
+- [frappe/frappe](https://github.com/frappe/frappe) ➔ **[fix(deps): require certifi>=2026.10.19](https://github.com/frappe/frappe/pull/44945)** - 2 days ago
