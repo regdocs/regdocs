@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/helpdesk @ v1.31.1](https://github.com/frappe/helpdesk/releases/tag/v1.31.1) (1 day ago)
-- [frappe/press @ v0.172.0](https://github.com/frappe/press/releases/tag/v0.172.0) (1 day ago)
-- [frappe/frappe @ v16.54.0](https://github.com/frappe/frappe/releases/tag/v16.54.0) (3 days ago)
+- [frappe/press @ v0.173.0](https://github.com/frappe/press/releases/tag/v0.173.0) (1 day ago)
+- [frappe/helpdesk @ v1.31.1](https://github.com/frappe/helpdesk/releases/tag/v1.31.1) (2 days ago)
+- [frappe/frappe @ v16.54.0](https://github.com/frappe/frappe/releases/tag/v16.54.0) (4 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace): Pass source names to branches in version options](https://github.com/frappe/press/pull/7902)** - 2 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(backups): Audit whole days before the audit date](https://github.com/frappe/press/pull/7894)** - 3 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(backups): Count only scheduled backups and use a 24h day window in the daily audit](https://github.com/frappe/press/pull/7890)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(product-trial): Read the signup's current agent job from the agent](https://github.com/frappe/press/pull/7926)** - 1 day ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[feat(job): run pool handover jobs on a dedicated queue and worker](https://github.com/frappe/agent/pull/657)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(product-trial): Archive broken standby sites without a backup](https://github.com/frappe/press/pull/7924)** - 1 day ago
