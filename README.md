@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.174.1](https://github.com/frappe/press/releases/tag/v0.174.1) (1 day ago)
-- [frappe/helpdesk @ v1.31.1](https://github.com/frappe/helpdesk/releases/tag/v1.31.1) (5 days ago)
-- [frappe/frappe @ v16.54.0](https://github.com/frappe/frappe/releases/tag/v16.54.0) (1 week ago)
+- [frappe/helpdesk @ v1.32.0](https://github.com/frappe/helpdesk/releases/tag/v1.32.0) (1 day ago)
+- [frappe/frappe @ v16.55.1](https://github.com/frappe/frappe/releases/tag/v16.55.1) (1 day ago)
+- [frappe/press @ v0.175.2](https://github.com/frappe/press/releases/tag/v0.175.2) (1 day ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(team-change): Move benches with their bench group](https://github.com/frappe/press/pull/7948)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[backport(master): feat(team-change): Add server ownership transfer (#7943)](https://github.com/frappe/press/pull/7947)** - 1 day ago
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(server): Skip moved sites when a recovery rebuilds the source nginx](https://github.com/frappe/agent/pull/659)** - 2 days ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[backport(master): feat: Read apt dependencies from [tool.frappe-cloud] (#616)](https://github.com/frappe/agent/pull/661)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(team-change): Skip database servers when the server has none](https://github.com/frappe/press/pull/7970)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(team-change): Move benches with their bench group](https://github.com/frappe/press/pull/7948)** - 2 days ago
