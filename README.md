@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/helpdesk @ v16.1.0](https://github.com/frappe/helpdesk/releases/tag/v16.1.0) (1 day ago)
-- [frappe/press @ v0.179.0](https://github.com/frappe/press/releases/tag/v0.179.0) (1 day ago)
-- [frappe/frappe @ v16.55.2](https://github.com/frappe/frappe/releases/tag/v16.55.2) (1 day ago)
+- [frappe/press @ v0.180.2](https://github.com/frappe/press/releases/tag/v0.180.2) (1 day ago)
+- [frappe/helpdesk @ v16.1.0](https://github.com/frappe/helpdesk/releases/tag/v16.1.0) (2 days ago)
+- [frappe/frappe @ v16.55.2](https://github.com/frappe/frappe/releases/tag/v16.55.2) (2 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(physical-backup): Remove backup metadata when the backup fails](https://github.com/frappe/agent/pull/662)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[backport(master): fix(deploy-candidate): Save duplicate deploy candidate on redeploy (#7933)](https://github.com/frappe/press/pull/7995)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[backport(master): feat(team-change): Add admin tool to move resources between teams (#7962)](https://github.com/frappe/press/pull/7982)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[backport(master): fix(agent-job): Tell the team to remove folders from private/backups (#7998)](https://github.com/frappe/press/pull/8002)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(coding-guidelines): Add guideline for feature branches](https://github.com/frappe/press/pull/8000)** - 1 day ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(physical-backup): Remove backup metadata when the backup fails](https://github.com/frappe/agent/pull/662)** - 2 days ago
