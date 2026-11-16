@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.190.0](https://github.com/frappe/press/releases/tag/v0.190.0) (1 day ago)
-- [frappe/frappe @ assets-version-16-60-nov](https://github.com/frappe/frappe/releases/tag/assets-version-16-60-nov) (2 days ago)
+- [frappe/press @ v0.191.0](https://github.com/frappe/press/releases/tag/v0.191.0) (1 day ago)
+- [frappe/frappe @ assets-version-16-60-nov](https://github.com/frappe/frappe/releases/tag/assets-version-16-60-nov) (3 days ago)
 - [frappe/helpdesk @ v16.1.0](https://github.com/frappe/helpdesk/releases/tag/v16.1.0) (1 week ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(build): Bring lint and builder tests in line with the asset store](https://github.com/frappe/agent/pull/672)** - 1 day ago
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(bench): Remove the container even when its stop times out](https://github.com/frappe/agent/pull/671)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(increase-disk-size): Wait for the extend play of this job](https://github.com/frappe/press/pull/8080)** - 1 day ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(build): Bring lint and builder tests in line with the asset store](https://github.com/frappe/agent/pull/672)** - 2 days ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(bench): Remove the container even when its stop times out](https://github.com/frappe/agent/pull/671)** - 2 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(increase-disk-size): Wait for the extend play of this job](https://github.com/frappe/press/pull/8080)** - 2 days ago
