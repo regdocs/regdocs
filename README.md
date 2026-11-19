@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/frappe @ v16.60.1](https://github.com/frappe/frappe/releases/tag/v16.60.1) (1 day ago)
-- [frappe/press @ v0.195.1](https://github.com/frappe/press/releases/tag/v0.195.1) (1 day ago)
+- [frappe/press @ v0.201.0](https://github.com/frappe/press/releases/tag/v0.201.0) (1 day ago)
+- [frappe/frappe @ v16.60.2](https://github.com/frappe/frappe/releases/tag/v16.60.2) (1 day ago)
 - [frappe/helpdesk @ v16.1.0](https://github.com/frappe/helpdesk/releases/tag/v16.1.0) (2 weeks ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(app-release-difference): Migrate when the GitHub compare is truncated](https://github.com/frappe/press/pull/8129)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(server-monitoring): Count stuck agent jobs with frappe.qb](https://github.com/frappe/press/pull/8127)** - 1 day ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[fix(product-trial): Archive broken standby sites (backport #7924)](https://github.com/frappe/press/pull/8125)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(server-monitoring): Alert when a public bench group build fails](https://github.com/frappe/press/pull/8162)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(site): Cancel backups when a user starts a migrate (backport #7838)](https://github.com/frappe/press/pull/8158)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(backups): Skip only the failing site in custom-time backups](https://github.com/frappe/press/pull/8153)** - 1 day ago
