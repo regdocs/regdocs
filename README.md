@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.204.1](https://github.com/frappe/press/releases/tag/v0.204.1) (3 days ago)
-- [frappe/helpdesk @ v16.2.1](https://github.com/frappe/helpdesk/releases/tag/v16.2.1) (3 days ago)
-- [frappe/frappe @ v16.60.2](https://github.com/frappe/frappe/releases/tag/v16.60.2) (5 days ago)
+- [frappe/press @ v0.205.1](https://github.com/frappe/press/releases/tag/v0.205.1) (1 day ago)
+- [frappe/helpdesk @ v16.2.1](https://github.com/frappe/helpdesk/releases/tag/v16.2.1) (4 days ago)
+- [frappe/frappe @ v16.60.2](https://github.com/frappe/frappe/releases/tag/v16.60.2) (6 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[chore(bench-dependency): Offer and default to Node 24.22.3](https://github.com/frappe/press/pull/8190)** - 3 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(server): Add Console button with the SSH command to server forms](https://github.com/frappe/press/pull/8187)** - 3 days ago
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(backup): Let os.remove skip directories under the bypass_unlink shim](https://github.com/frappe/agent/pull/688)** - 3 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[chore(bench-dependency): Offer and default to Node 24.22.3](https://github.com/frappe/press/pull/8190)** - 4 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(server): Add Console button with the SSH command to server forms](https://github.com/frappe/press/pull/8187)** - 4 days ago
+- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(backup): Let os.remove skip directories under the bypass_unlink shim](https://github.com/frappe/agent/pull/688)** - 4 days ago
