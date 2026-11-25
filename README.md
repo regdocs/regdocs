@@ -12,13 +12,13 @@ I'm **Jayanta**, an admirer of all things Computer Science.
 #### 🚀 Latest releases I've contributed to
 
 
-- [frappe/press @ v0.205.1](https://github.com/frappe/press/releases/tag/v0.205.1) (1 day ago)
-- [frappe/helpdesk @ v16.2.1](https://github.com/frappe/helpdesk/releases/tag/v16.2.1) (4 days ago)
-- [frappe/frappe @ v16.60.2](https://github.com/frappe/frappe/releases/tag/v16.60.2) (6 days ago)
+- [frappe/press @ v0.210.1](https://github.com/frappe/press/releases/tag/v0.210.1) (1 day ago)
+- [frappe/frappe @ v16.61.0](https://github.com/frappe/frappe/releases/tag/v16.61.0) (1 day ago)
+- [frappe/helpdesk @ v16.2.1](https://github.com/frappe/helpdesk/releases/tag/v16.2.1) (5 days ago)
 
 #### ⤵️ Recent work
 
 
-- [frappe/press](https://github.com/frappe/press) ➔ **[chore(bench-dependency): Offer and default to Node 24.22.3](https://github.com/frappe/press/pull/8190)** - 4 days ago
-- [frappe/press](https://github.com/frappe/press) ➔ **[feat(server): Add Console button with the SSH command to server forms](https://github.com/frappe/press/pull/8187)** - 4 days ago
-- [frappe/agent](https://github.com/frappe/agent) ➔ **[fix(backup): Let os.remove skip directories under the bypass_unlink shim](https://github.com/frappe/agent/pull/688)** - 4 days ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(marketplace): Check the GitHub installation on new apps](https://github.com/frappe/press/pull/8255)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[feat(github): List repos with installation tokens (backport #8224)](https://github.com/frappe/press/pull/8251)** - 1 day ago
+- [frappe/press](https://github.com/frappe/press) ➔ **[fix(server-monitoring): Skip archived regions in stuck agent job alert](https://github.com/frappe/press/pull/8248)** - 1 day ago
